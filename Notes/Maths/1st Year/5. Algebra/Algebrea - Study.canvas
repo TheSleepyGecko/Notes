@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Algebra","id":"ed188523af4a9429","x":-151,"y":-58,"width":250,"height":67,"color":"#ffffff"},
+		{"type":"text","text":"### 8. Multiplying algebra\nWhen you are multiplying algebra you must remmeber that you add the powers. All numbers are to the power of one but it is not shown. Another rule when multiplying algebra is SNL which is the order that you need to multiply, it stands for Sign Number Letter.","id":"20b4dbc0b534b40d","x":-89,"y":-648,"width":377,"height":259,"color":"#0b95da"},
+		{"type":"text","text":"### 9. Multiplying with algebra\nWhen you are multiply with algebra you need to remember that if you are multiplying with like terms you need to add the powers.\n**Example:**\n```math\nx(x - 3)\n3^2 - 3x\n```","id":"f131260cedcb83e4","x":-464,"y":-683,"width":313,"height":330,"color":"#211eeb"},
+		{"type":"text","text":"### 10. Expanding brackets.\nWhen you are expanding/removing brackets you need to remember one rule and that is, \"Everything on the outside multiplied by everything on the inside.\"","id":"80df9a1ff39cd7f9","x":-789,"y":-389,"width":292,"height":236,"color":"#ea1abd"},
+		{"type":"text","text":"### 11. Terminology \ndisplayed below is a small diagram of algebra terminology to help you understand algebra better.\n![[Algebra.png]]","id":"eb61c76ce3e0e6ca","x":-789,"y":-93,"width":325,"height":306,"color":"#ed0c66"},
+		{"type":"text","text":"### 5. Adding algebrea\nWhen you are adding algebra you must start by adding all of the like terms which are terms that have the same power and variable. Then you are left with your final expression.","id":"7c193315fe7cf65e","x":349,"y":156,"width":250,"height":261,"color":"#21f312"},
+		{"type":"text","text":"### 1. Variable\nVariables in algebra are letters which are used to represent numbers.","id":"fce3c09ba0294d58","x":-768,"y":250,"width":250,"height":167,"color":"#f01414"},
+		{"type":"text","text":"### 2. Coefficent\nThe coeffiecent is the number beside the letter when you are doing algebra.\n**Example:**\n<mark class=\"hltr-green\">3</mark>x","id":"9ce7c02910f3fa21","x":-478,"y":325,"width":264,"height":225,"color":"#d25614"},
+		{"type":"text","text":"### 4. Expression\nAn expression is a sum with no answer. This may be because the values of the variables are not known","id":"4e11dc3c5364f7c2","x":99,"y":310,"width":250,"height":214,"color":"#c9ff05"},
+		{"type":"text","text":"### 3. Constants\nConstants are numbers with no variable attached.","id":"e11522dcdf3e3180","x":-182,"y":438,"width":250,"height":124,"color":"#f0d10a"},
+		{"type":"text","text":"### 6. Simplify\nTo simplify means that you must make the sum as small as possible be compacting it using like terms.","id":"2c8eed26cee84dcb","x":409,"y":-144,"width":250,"height":204,"color":"#05f0b5"},
+		{"type":"text","text":"### 7. Evaluate\nTo evaluate means that you must find the answer to a sum in algebra, you will always know the values of the variables.","id":"273adb49e59911ce","x":316,"y":-455,"width":250,"height":215,"color":"#0befeb"}
+	],
+	"edges":[
+		{"id":"5b36fe8c010fdf72","fromNode":"e11522dcdf3e3180","fromSide":"top","toNode":"ed188523af4a9429","toSide":"bottom"},
+		{"id":"60c3bccc64292e2e","fromNode":"fce3c09ba0294d58","fromSide":"right","toNode":"ed188523af4a9429","toSide":"left"},
+		{"id":"fbc553a2febe6347","fromNode":"4e11dc3c5364f7c2","fromSide":"top","toNode":"ed188523af4a9429","toSide":"bottom"},
+		{"id":"b54f935a0e93b2bb","fromNode":"2c8eed26cee84dcb","fromSide":"left","toNode":"ed188523af4a9429","toSide":"right"},
+		{"id":"8b21e73aeddbe2c0","fromNode":"20b4dbc0b534b40d","fromSide":"bottom","toNode":"ed188523af4a9429","toSide":"top"},
+		{"id":"27f62ebb5a19a279","fromNode":"7c193315fe7cf65e","fromSide":"top","toNode":"ed188523af4a9429","toSide":"bottom"},
+		{"id":"03271a0d41fd69e2","fromNode":"273adb49e59911ce","fromSide":"bottom","toNode":"ed188523af4a9429","toSide":"right"},
+		{"id":"02ad5c81d10e4509","fromNode":"f131260cedcb83e4","fromSide":"bottom","toNode":"ed188523af4a9429","toSide":"top"},
+		{"id":"5089c181d146afc4","fromNode":"80df9a1ff39cd7f9","fromSide":"right","toNode":"ed188523af4a9429","toSide":"left"},
+		{"id":"4cc3c89ac4c0f872","fromNode":"eb61c76ce3e0e6ca","fromSide":"right","toNode":"ed188523af4a9429","toSide":"left"},
+		{"id":"ab56b9546454d8a5","fromNode":"9ce7c02910f3fa21","fromSide":"top","toNode":"ed188523af4a9429","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cc2a7a4efadd57ef","x":-160,"y":-80,"width":290,"height":120,"color":"#ffffff","type":"text","text":"# Thermosetting Plastics"},
+		{"id":"669b02c72405a889","x":-520,"y":-140,"width":250,"height":60,"color":"#604d4d","type":"text","text":"### Bakelite 🎱"},
+		{"id":"ae07eda4a5b98bc8","x":-440,"y":140,"width":250,"height":60,"color":"6","type":"text","text":"### Formaldehyde 🔌"},
+		{"id":"0a46572a9c512f3c","x":-15,"y":-340,"width":250,"height":60,"color":"3","type":"text","text":"#### Polyurethane 👟"},
+		{"id":"7360a19b1508a718","x":260,"y":40,"width":250,"height":60,"color":"5","type":"text","text":"### Polyester 🛶"}
+	],
+	"edges":[
+		{"id":"ebf5d4c9836dcd80","fromNode":"cc2a7a4efadd57ef","fromSide":"left","toNode":"669b02c72405a889","toSide":"right","toEnd":"none"},
+		{"id":"41e40b0a94989867","fromNode":"cc2a7a4efadd57ef","fromSide":"bottom","toNode":"ae07eda4a5b98bc8","toSide":"top","toEnd":"none"},
+		{"id":"4f8c3f9fce50d97a","fromNode":"cc2a7a4efadd57ef","fromSide":"right","toNode":"7360a19b1508a718","toSide":"left","toEnd":"none"},
+		{"id":"309dbb49be3bde2c","fromNode":"cc2a7a4efadd57ef","fromSide":"top","toNode":"0a46572a9c512f3c","toSide":"bottom","toEnd":"none"}
+	]
+}

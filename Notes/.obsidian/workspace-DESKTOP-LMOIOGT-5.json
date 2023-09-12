@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "9771598a2ded4064",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad55064f309488a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b9206a6b314a1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e493cf83b3f2b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85bf28a1c417a6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irish/1st Year/5. Common language/Mo theach.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c317604f1ed78494",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e92415bc2c6488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61babeadcd069414",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a801e3572764f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bc5b56db559041d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0be322dc586476fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e768bd83da3bf1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea80482fe198d27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d9c3bfd74383b5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "053caaa0b4720f20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "845ff663e2470983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5935b6021e78d971",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91b9206a6b314a1e",
+  "lastOpenFiles": [
+    "Irish/1st Year/5. Common language/Bia.md",
+    "Irish/1st Year/5. Common language/Cistin.md",
+    "Irish/1st Year/5. Common language/Mo theach.md",
+    "Homework/Homework - Maths.md",
+    "Homework/Homework - Italian.md",
+    "Italian/1st Year/3. Common language/Gli animlali - The animals.md",
+    "Italian/1st Year/3. Common language/Common language.md"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d77c24333fbd951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3bfbcd25972d394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/1st year/1. Historian & Archeologist/Summary of keywords - Historian and Archeologist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "321a6a406813001c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Homework - To do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: Summary of Keywords - Body systems",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a7d57d8d51e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "35c2a247f2a3b68d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "09579b92e0226523",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History/1st year/1. Historian & Archeologist/Summary of keywords - Historian and Archeologist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "History/1st year/1. Historian & Archeologist/Summary of keywords - Historian and Archeologist.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History/1st year/1. Historian & Archeologist/Summary of keywords - Historian and Archeologist.md"
+              }
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "997d9b344c0edadf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c138e3d873818de",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false
+    }
+  },
+  "floating": {
+    "id": "d5ce6019441e85fb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d49a0ad8a2545774",
+        "type": "window",
+        "children": [
+          {
+            "id": "7a8bf5bdd335df33",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b05937f4b9474375",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Science/1st Year/4. Biology/2. Body Systems/Summary of Keywords - Body Systems.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b966a335dee2d7ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "566eef098ba16783",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Science/1st Year/4. Biology/2. Body Systems/Respiration/Introduction to respiration.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 720,
+        "y": 0,
+        "width": 720,
+        "height": 960,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c3bfbcd25972d394",
+  "lastOpenFiles": [
+    "History/1st year/1. Historian & Archeologist/Summary of Historian & Archeologist.md",
+    "Kanban/Homework - To do.md",
+    "Homework/Homework - English.md",
+    "History/1st year/2. Romans/Roman Army/Keywords - Romans - Roman army.canvas",
+    "Homework/Homework - Geography.md",
+    "Kanban/Studying.md",
+    "History/1st year/7. Reformation/Martin Luther.md",
+    "Religion Mr.Guarett/How the bible was written.canvas",
+    "Maths/1st Year/1. Sets/Sets - Study.canvas",
+    "Homework/Homework - Maths.md",
+    "Homework/Homework - Engineering.md",
+    "CSPE/Reflective Journal.md",
+    "Science/1st Year/Keywords to study! - Science.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Summary of Keywords - Body Systems.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Respiration/Introduction to respiration.md",
+    "Science/1st Year/3. Physics/3. Energy/Conservation of Energy.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Respiration/Summary of the Respitory system.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Digestive system/Introduction to the digestive system.md",
+    "Science/1st Year/3. Physics/3. Energy/Untitled",
+    "Other/Study plan.md",
+    "Pictures/Pasted image 20230511140010.png",
+    "Science/1st Year/4. Biology/2. Body Systems/Digestive system/Summary of the Digestive system.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Digestive system/Keywords - Digestive system.canvas",
+    "Science/1st Year/4. Biology/2. Body Systems/Circulatory system/The heart.md",
+    "History/1st year/Keywords to study! - History.md",
+    "History/1st year/8. Ulster Plantation/Ulster Plantation.md",
+    "History/1st year/8. Ulster Plantation/Why plant Ireland.md",
+    "Pictures/Pasted image 20230511102103.png",
+    "Pictures/Pasted image 20230511102057.png",
+    "History/1st year/8. Ulster Plantation",
+    "Irish/1st Year/5. Common language/mo féin + mo chlann.canvas",
+    "English/1st Year/10. Exams & Tests/Technology Question.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Circulatory system/Blood Vessels.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Circulatory system/Blood.md",
+    "Science/1st Year/4. Biology/2. Body Systems/Summary oof keywords - Body systems.md",
+    "Homework/Homework - Irish.md",
+    "Pictures/Pasted image 20230510140150.png",
+    "Pictures/Pasted image 20230510124853.png",
+    "Pictures/Pasted image 20230510121401.png",
+    "Pictures/Pasted image 20230510120906.png",
+    "Pictures/Pasted image 20230510120816.png",
+    "Pictures/Pasted image 20230510120136.png",
+    "Woodwork/1st Year/1. Trees/Trees - Study.canvas",
+    "History/1st year/2. Romans/Roman Women/Keywords - Romans - Roman women.canvas",
+    "History/1st year/2. Romans/Plebian & Partrician/Keywords - Romans - Plebian & Partrician.canvas",
+    "History/1st year/1. Historian & Archeologist/Keywords - Historian and Archeologist.canvas",
+    "History/1st year/4. Middle Ages/2. Medieval feasts and Knights/Keywords - Middle Ages - Feasts and Knights.canvas",
+    "Pictures/circuit.png",
+    "Science/1st Year/3. Physics/3. Energy",
+    "Engineering/1st Year/5. Tools",
+    "Pictures/Recording 20230424140127.webm",
+    "Maths/1st Year/8. Statistics",
+    "Daily",
+    "Geography/1st Year/7. Coastlands and rivers",
+    "Science/1st Year/2. Chemistry/Elements, compounds and mixtures",
+    "Box 5 - Every 9 days"
+  ]
+}

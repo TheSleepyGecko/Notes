@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bfd042d7703dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4bbd2ff18c1200",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Homework - To do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a7d57d8d51e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "35c2a247f2a3b68d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "997d9b344c0edadf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "365e962dc73f3c5b",
+  "lastOpenFiles": [
+    "Kanban/Homework - To do.md",
+    "Woodwork/bukko.md",
+    "Maths/1st Year/1. Sets/Summary of sets.md",
+    "Maths/1st Year/1. Sets/Sets - Study.canvas",
+    "Maths/1st Year/1. Sets/Introduction to sets..md",
+    "History/1st year/1. Historian & Archeologist/Dating artifacts.md",
+    "CSPE/UNCRC.md",
+    "Kanban/Studying.md",
+    "History/1st year/1. Historian & Archeologist/Summary of Historian & Archeologist.md",
+    "History/1st year/1. Historian & Archeologist/Keywords - Historian and Archeologist.canvas",
+    "Homework/Homework - Science.md",
+    "English/1st Year/1. Poetry/How to create a poem.md",
+    "History/1st year/Keywords to study! - History.md",
+    "History/1st year/7. Reformation/Martin Luther.md",
+    "History/1st year/7. Reformation/Causes of the reformation.md",
+    "Formatting/Features/Information Block.md",
+    "Formatting/Features/Image.md",
+    "Formatting/Features/Horizontal Rule!.md",
+    "Formatting/Features/Headings.md",
+    "Formatting/Features/Comment.md",
+    "Formatting/Features/Code Block.md",
+    "Formatting/Features/Blockquote.md",
+    "Irish/1st Year/2. Grammer/Aimsir Fháistineach (1 Syllable) - Study.canvas",
+    "Homework/Homework - Irish.md",
+    "Irish/1st Year/2. Grammer/Verbs in future tense.md",
+    "Irish/1st Year/2. Grammer/Verbs in present tense.md",
+    "Irish/1st Year/2. Grammer/Irregular verbs in present tense.md",
+    "Irish/1st Year/2. Grammer/Aimsir Fháistineach.md",
+    "Irish/1st Year/2. Grammer/Aimsir Láíthreach (1 Syllable) - Study.canvas",
+    "Irish/1st Year/2. Grammer/Aimsir Láíthreach (2 Syllable) - Study.canvas",
+    "Irish/1st Year/Keywords to study! - Irish.md",
+    "Pictures/Pasted image 20230419125508.png",
+    "Pictures/Bay erosion diagram.png",
+    "Pictures/Resistor.png",
+    "Geography/1st Year/7. Coastlands and rivers",
+    "Science/1st Year/2. Chemistry/2. Separating mixtures/Seperating Mixtures - Study.canvas",
+    "Science/1st Year/2. Chemistry/Elements, compounds and mixtures",
+    "Pictures/Dendrochronology.png",
+    "Pictures/Reformation king.png",
+    "Pictures/Maths homework.png",
+    "Pictures/Maths homwork.png",
+    "Pictures/Timber seasoning.png",
+    "Pictures/Close up timber seasoning.png",
+    "Pictures/Electronic symbols.png",
+    "Box 5 - Every 9 days",
+    "Box 4 - Every 7 days",
+    "Box 3 - Every 5 days",
+    "Box 2 - Every 3 days",
+    "Box 1 - Every day",
+    "Maths/1st Year/7. Probability",
+    "Italian/1st Year/3. Common language/Common language - Study, Oral.canvas",
+    "Science/1st Year/4. Biology/2. Body Systems/Digestive system/Keywords - Digestive system.canvas",
+    "Science/1st Year/4. Biology/2. Body Systems/Respiration/Keywords - Respiration.canvas",
+    "Science/1st Year/4. Biology/1. Cells/Keywords - Cells.canvas",
+    "Engineering/1st Year/2. Materials/Electronics",
+    "Science/1st Year/4. Biology/2. Body Systems/Circulatory system"
+  ]
+}

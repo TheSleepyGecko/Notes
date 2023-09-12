@@ -1,0 +1,20 @@
+{
+  "pluginList": [
+    "phd20/obsidian-discord-share"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "phd20/obsidian-discord-share",
+      "version": "2.0.0"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

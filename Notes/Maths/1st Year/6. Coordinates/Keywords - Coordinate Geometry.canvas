@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Formulas","id":"bc2ba25abc58bb72","x":-533,"y":-173,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"### Distance\n[[Distance]]","id":"7d9039bbd762aebe","x":245,"y":215,"width":250,"height":117,"color":"3"},
+		{"type":"text","text":"### Basic Coordinates\n[[Introduction to coordinates]]","id":"71a57efcc44fe354","x":-92,"y":-336,"width":293,"height":110,"color":"1"},
+		{"type":"text","text":"### Midpoint\n[[Midpoint]]","id":"0ae847e8498aff7f","x":330,"y":-143,"width":250,"height":111,"color":"2"},
+		{"type":"text","text":"### Slope of a line\n[[Slope of a line]]","id":"21ddf3bbd70a9a74","x":-467,"y":103,"width":250,"height":112,"color":"5"},
+		{"type":"text","text":"### Quadrants","id":"5c26c307b4e91035","x":-175,"y":302,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"# Coordinates","id":"64d4f7f13dc4347a","x":-117,"y":-32,"width":265,"height":85,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"79fe027ea2ade04f","fromNode":"64d4f7f13dc4347a","fromSide":"left","toNode":"bc2ba25abc58bb72","toSide":"right","toEnd":"none","color":"6"},
+		{"id":"eaf7f91eb243d6cf","fromNode":"64d4f7f13dc4347a","fromSide":"bottom","toNode":"5c26c307b4e91035","toSide":"top","toEnd":"none","color":"4"},
+		{"id":"2f0d470dfdc26e13","fromNode":"64d4f7f13dc4347a","fromSide":"bottom","toNode":"21ddf3bbd70a9a74","toSide":"top","toEnd":"none","color":"5"},
+		{"id":"60521c1ef3a258a4","fromNode":"64d4f7f13dc4347a","fromSide":"bottom","toNode":"7d9039bbd762aebe","toSide":"top","toEnd":"none","color":"3"},
+		{"id":"534a502e9b53f954","fromNode":"64d4f7f13dc4347a","fromSide":"right","toNode":"0ae847e8498aff7f","toSide":"left","toEnd":"none","color":"2"},
+		{"id":"490965bca9d06d19","fromNode":"64d4f7f13dc4347a","fromSide":"top","toNode":"71a57efcc44fe354","toSide":"bottom","toEnd":"none","color":"1"}
+	]
+}

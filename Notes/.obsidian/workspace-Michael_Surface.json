@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "447755201964703d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65efcf9cdac36206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Tree Growth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "718651362a41257b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Transpiration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12f094590a758d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Photosynthesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40d66f8b13c634db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Trunk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Religion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a7d57d8d51e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Photosynthesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Photosynthesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Photosynthesis.md"
+              }
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35d29f37ba67420f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "active": "b12f094590a758d8",
+  "lastOpenFiles": [
+    "Woodwork/1st Year/1. Trees/Trunk.md",
+    "Woodwork/1st Year/1. Trees/Photosynthesis.md",
+    "Woodwork/1st Year/1. Trees/Transpiration.md",
+    "Woodwork/1st Year/1. Trees/Tree Growth.md",
+    "Science/1st Year/1. Experiments/Chromotography.md",
+    "Homework/Homework - Engineering.md",
+    "Engineering/1st Year/2. Materials/Alloys.md",
+    "Kanban/Homework - To do.md",
+    "Engineering/1st Year/1. Machines/The electric arc furnace..md",
+    "Engineering/1st Year/1. Machines/The Blast Furnace.md"
+  ]
+}

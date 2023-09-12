@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"Film","id":"4d1a77f1c7ff8d27","x":68,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Magazine","id":"13164c4abb44d0b9","x":-972,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"Online","id":"1a775db78b04b8b5","x":68,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"Posters","id":"e6b0f1c6d1b7a670","x":-972,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Ads","id":"9f875a5c28626703","x":68,"y":-90,"width":250,"height":60},
+		{"type":"text","text":"Youtube","id":"5405479d465508c0","x":-722,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"Billboards","id":"fe2ebec55fd2c8d3","x":-702,"y":120,"width":250,"height":60},
+		{"type":"text","text":"Newspapers","id":"c3d819fb9e2458a2","x":-182,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"Events","id":"1c9dda8af0432538","x":-452,"y":400,"width":250,"height":60},
+		{"type":"text","text":"T.V.","id":"38dd4c61629977e9","x":-452,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Social Expeirments","id":"74104e5c74354629","x":-182,"y":120,"width":250,"height":60},
+		{"type":"text","text":"Social Media","id":"ed1177da8de131d5","x":-452,"y":-600,"width":250,"height":60},
+		{"type":"text","text":"Radio","id":"ce5ff1eac331cc42","x":-452,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"# Media Studies","id":"1c8da65d6428f560","x":-452,"y":-90,"width":250,"height":60},
+		{"type":"text","text":"Poasters","id":"fc4586727bee6b96","x":-972,"y":-90,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7c3c33ec2b24d15a","fromNode":"38dd4c61629977e9","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"bottom"},
+		{"id":"1a8ffac592a66f82","fromNode":"1c9dda8af0432538","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"bottom"},
+		{"id":"f97e24c3fda11dc9","fromNode":"74104e5c74354629","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"bottom"},
+		{"id":"305acbd660807cb0","fromNode":"c3d819fb9e2458a2","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"top"},
+		{"id":"bd6dccfba504f46f","fromNode":"ce5ff1eac331cc42","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"top"},
+		{"id":"13a3f9cde8e7a3a5","fromNode":"ed1177da8de131d5","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"top"},
+		{"id":"373f7331a3fea85e","fromNode":"5405479d465508c0","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"top"},
+		{"id":"fb941359cfd1b38a","fromNode":"fe2ebec55fd2c8d3","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"bottom"},
+		{"id":"1a3b336e3ee3e4bd","fromNode":"e6b0f1c6d1b7a670","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"left"},
+		{"id":"d6d988f475f9ae5b","fromNode":"fc4586727bee6b96","fromSide":"right","toNode":"1c8da65d6428f560","toSide":"left"},
+		{"id":"b87278a55b8d2f07","fromNode":"13164c4abb44d0b9","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"left"},
+		{"id":"a83d9857a646ece8","fromNode":"1a775db78b04b8b5","fromSide":"bottom","toNode":"1c8da65d6428f560","toSide":"right"},
+		{"id":"30c43d7785fd7eb2","fromNode":"9f875a5c28626703","fromSide":"left","toNode":"1c8da65d6428f560","toSide":"right"},
+		{"id":"4da3f96f75ff7686","fromNode":"4d1a77f1c7ff8d27","fromSide":"top","toNode":"1c8da65d6428f560","toSide":"right"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Thermoplastics","id":"defbfd2e08fe0401","x":-200,"y":-20,"width":300,"height":80,"color":"#ffffff"},
+		{"type":"text","text":"### Polycarbonate 🪟(Greenhouse)","id":"562193869ee3b909","x":145,"y":190,"width":250,"height":90,"color":"#28bd41"},
+		{"type":"text","text":"### Acrylic 😡🐦","id":"18d181c4b845706c","x":-290,"y":220,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"### Polystyrene 📺","id":"da8f1c05a7127278","x":-540,"y":60,"width":250,"height":60,"color":"#4e56c6"},
+		{"type":"text","text":"### H.D.P.E. High Density Polyethylene 🪣","id":"baa4e0c8fd3eaf0b","x":-120,"y":-240,"width":320,"height":100,"color":"5"},
+		{"type":"text","text":"### A.B.S 🧱🧑 (Lego)","id":"1c3a539ce7fc6213","x":300,"y":-50,"width":250,"height":60},
+		{"type":"text","text":"### Polyethylene 🥤","id":"168518d339f49bec","x":-450,"y":-200,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"0f3464a494e9509d","fromNode":"defbfd2e08fe0401","fromSide":"top","toNode":"baa4e0c8fd3eaf0b","toSide":"bottom"},
+		{"id":"eec5a4993f052786","fromNode":"defbfd2e08fe0401","fromSide":"left","toNode":"168518d339f49bec","toSide":"bottom"},
+		{"id":"f9289a4b561a27d7","fromNode":"defbfd2e08fe0401","fromSide":"left","toNode":"da8f1c05a7127278","toSide":"right"},
+		{"id":"adec8feb4d91659e","fromNode":"defbfd2e08fe0401","fromSide":"bottom","toNode":"18d181c4b845706c","toSide":"top"},
+		{"id":"fc4f10040b8c9ca0","fromNode":"defbfd2e08fe0401","fromSide":"right","toNode":"1c3a539ce7fc6213","toSide":"left"},
+		{"id":"148cbbe81b2bc30f","fromNode":"defbfd2e08fe0401","fromSide":"right","toNode":"562193869ee3b909","toSide":"left"}
+	]
+}

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "393b04d77ecbb558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8b38ccb48b8f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodwork/1st Year/1. Trees/Tree Growth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b96cb47681d0a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/1st Year/5. Weathering/Introduction to Denudation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370af23f1fa88639",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Homework - To do.md"
+              }
+            }
+          },
+          {
+            "id": "95a30fda10b21e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Homework - Irish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a7d57d8d51e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "35c2a247f2a3b68d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.00390243530273
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homework/Homework - Irish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homework/Homework - Irish.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework/Homework - Irish.md"
+              }
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35d29f37ba67420f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95a30fda10b21e63",
+  "lastOpenFiles": [
+    "Irish/1st Year/4. Other/El toro.md",
+    "Kanban/Homework - To do.md",
+    "Engineering/1st Year/4. Design/Dog kennels.md",
+    "Geography/1st Year/5. Weathering/Freeze thaw action or Onion erosion.md",
+    "Pictures/Freeze thaw action.png",
+    "Geography/1st Year/5. Weathering/Introduction to Denudation.md",
+    "Irish/1st Year/2. Grammer/Squishables.md",
+    "Irish/1st Year/2. Grammer/Irregular verbs in present tense.md",
+    "Irish/1st Year/2. Grammer/Common language.md",
+    "Irish/1st Year/2. Grammer/Aimsir Láíthreach (1 Syllable) - Study.canvas"
+  ]
+}

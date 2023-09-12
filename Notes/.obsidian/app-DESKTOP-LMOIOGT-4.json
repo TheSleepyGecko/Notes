@@ -1,0 +1,11 @@
+{
+  "showFrontmatter": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "attachmentFolderPath": "Italian/GamesAndTests"
+}

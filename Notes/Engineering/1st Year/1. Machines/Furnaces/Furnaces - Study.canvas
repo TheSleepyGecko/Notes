@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2682c73c46f43297","x":-22,"y":-28,"width":250,"height":60,"color":"#ffffff","type":"text","text":"# Furnaces"},
+		{"id":"5e4ce2482589e0af","x":-650,"y":-369,"width":342,"height":401,"color":"1","type":"text","text":"### 1. The blast furnace\nThe blast furnace is a large pot with a lining called a refactory lining, before the iron ore is put into the blast furnace with coal dust(Coke) and limestone.\n\nThe Blast furnace uses a double bell system to allow the iron in but to trap the heat, there is also a ring around the blast furnace pumping in hot air to heat it up, once the iron comes out of the blast furnace in can go to the other furnaces."},
+		{"id":"669948aa900a794b","x":528,"y":-183,"width":354,"height":466,"color":"3","type":"text","text":"### 3. The electric arc furnace\nThe electric arc furnace is one of the smallest furnaces and uses electricity to heat the charge to make some of the most refined metal possible and is normally one the last steps in refining metal.\n\n1. Roof is removed. The charge is tipped into the top.\n2. Roof is replaced. Power is sent to the electrodes. This heats up, melts and agitates the mixture.\n3. The roof is removed again.\n4. The roller system tilts the furnace. The molten metal taps out."},
+		{"id":"8f0dbc0cd3dfec8f","x":-193,"y":190,"width":343,"height":397,"color":"2","type":"text","text":"### 2. The oxygen furnace\n1. Scrap metal is charged (Tipped in)\n2. Molten iron is charged (Tipped in)\n3. Lance is inserted. Oxygen is blown this melts and agitates the mix.\n4. The metal is tested for quality.\n5. The lance is removed. The furnace is tipped to the side, the molten metal is poured out the tapping spout.\n6. The furnace is tilted the other direction and the slag is poured out."}
+	],
+	"edges":[
+		{"id":"fc030d705eea85d8","fromNode":"5e4ce2482589e0af","fromSide":"right","toNode":"2682c73c46f43297","toSide":"left"},
+		{"id":"4fe39cc7457b4c50","fromNode":"8f0dbc0cd3dfec8f","fromSide":"top","toNode":"2682c73c46f43297","toSide":"bottom"},
+		{"id":"575ee1a8de75d13a","fromNode":"669948aa900a794b","fromSide":"left","toNode":"2682c73c46f43297","toSide":"right"}
+	]
+}

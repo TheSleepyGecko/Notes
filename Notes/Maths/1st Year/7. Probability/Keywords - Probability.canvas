@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Outcomes","id":"a69b366f72e44156","x":-469,"y":-158,"width":250,"height":60,"color":"5"},
+		{"id":"7433e966f73a3055","x":329,"y":-58,"width":250,"height":90,"color":"2","type":"text","text":"### Equally Likley outcomes"},
+		{"id":"75ac1ad7f0adc176","x":134,"y":-347,"width":250,"height":119,"color":"1","type":"text","text":"### Factorial\nx * x-1"},
+		{"id":"9bc3359393571bd0","x":-263,"y":-384,"width":250,"height":156,"color":"6","type":"text","text":"### Calculating Probability\n[[Calculating Probability]]"},
+		{"type":"text","text":"### Fundamental Law of counting","id":"f7e8855df221181f","x":-367,"y":98,"width":250,"height":90,"color":"4"},
+		{"type":"text","text":"# Probability\n[[Introduction to probability]]\n","id":"294d465b0c5d1b64","x":-77,"y":-128,"width":273,"height":130,"color":"#ffffff"},
+		{"type":"text","text":"### Probability Scale ","id":"62fe127bcd04b100","x":110,"y":83,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"8864fca09b086da7","fromNode":"a69b366f72e44156","fromSide":"right","toNode":"294d465b0c5d1b64","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"5b32a9c2b88ba0db","fromNode":"9bc3359393571bd0","fromSide":"bottom","toNode":"294d465b0c5d1b64","toSide":"top","toEnd":"none","color":"6"},
+		{"id":"ced8b8a80c1d1421","fromNode":"75ac1ad7f0adc176","fromSide":"bottom","toNode":"294d465b0c5d1b64","toSide":"top","toEnd":"none","color":"1"},
+		{"id":"ca82326e54ce9562","fromNode":"7433e966f73a3055","fromSide":"left","toNode":"294d465b0c5d1b64","toSide":"right","toEnd":"none","color":"2"},
+		{"id":"46826771f174d79b","fromNode":"62fe127bcd04b100","fromSide":"top","toNode":"294d465b0c5d1b64","toSide":"bottom","toEnd":"none","color":"3"},
+		{"id":"3fde67f35c7966d9","fromNode":"f7e8855df221181f","fromSide":"top","toNode":"294d465b0c5d1b64","toSide":"bottom","toEnd":"none","color":"4"}
+	]
+}

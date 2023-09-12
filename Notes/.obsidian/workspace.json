@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ae9974b5a1f823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546ee0079257a91b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09579b92e0226523",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "41d8dc884f9213dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.50390243530273
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "997d9b344c0edadf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c138e3d873818de",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "20e0006b950a842b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "546ee0079257a91b",
+  "lastOpenFiles": [
+    "Daily/Daily notes.md",
+    "Other/Purpose.md",
+    "Daily/21-04-2023.md",
+    "Kanban/Homework - To do.md",
+    "Homework/Homework - Maths.md",
+    "Maths/2nd Year/Algbrea/Linear Equations.md",
+    "Geography/2nd Year/1. Glaciation/Glaciation.md",
+    "Pictures/Pasted image 20230912111030.png",
+    "Pictures/Pasted image 20230912105709.png",
+    "Geography/2nd Year/Keyword Meanings.md",
+    "Geography/2nd Year/1. Glaciation",
+    "Homework/Homework - Science.md",
+    "Science/2nd Year/2. Expeiriments/Habitat Study.md",
+    "Pictures/Pasted image 20230912095236.png",
+    "Pictures/Pasted image 20230912095221.png",
+    "Science/2nd Year/2. Expeiriments",
+    "Science/2nd Year/1. Ecology",
+    "Science/2nd Year",
+    "Irish/2nd Year/Basics/Mé féin/Mo clann.md",
+    "Maths/2nd Year/Algbrea/Two bracket simplyfing.md",
+    "Engineering/2nd Year/Questions/Manufacturing.md",
+    "Pictures/Pasted image 20230906100542.png",
+    "Pictures/Pasted image 20230906100331.png",
+    "Pictures/Pasted image 20230906100141.png",
+    "Pictures/Pasted image 20230906095929.png",
+    "Engineering/2nd Year/Joining & Assembly/Bench Fitting Skills.md",
+    "Pictures/Pasted image 20230906095416.png",
+    "Engineering/2nd Year/Questions",
+    "CSPE/The Law.md",
+    "Pictures/EngineeringBoxPiece1.png",
+    "Homework/Homework - CSPE.md",
+    "History/1st year/2. Romans/Roman Women/Education.md",
+    "Geography/1st Year/7. Coastlands and rivers/Introduction to Headlands and bays.md",
+    "History/1st year/6. Age of Exploration/The conquistadors - Francisco Pizarro and the Incas.md",
+    "Woodwork/1st Year/3. Tree Conversion/Quarter Sawing.md",
+    "English/1st Year/4. Speeches/Speech - Expeirence of First Year.md",
+    "Italian/1st Year/3. Common language/Verbs/Andare - to go, Irregular verb.md",
+    "Geography/1st Year/2. Maps/Altitude.md",
+    "Other/Features/Horizontal Rule!.md",
+    "Other/Plugins/Highltr.md",
+    "Pictures/Recording 20230904140502.webm",
+    "Italian/1st Year/4. GamesAndTests/Quick Games.md",
+    "Italian/2nd Year/1. il tempo",
+    "Italian/2nd Year",
+    "Maths/2nd Year/Algbrea",
+    "Maths/2nd Year",
+    "History/1st year/1. Historian & Archeologist/Keywords - Historian and Archeologist.canvas",
+    "Irish/1st Year/2. Grammer/Aimsir Láíthreach (1 Syllable) - Study.canvas",
+    "Irish/1st Year/2. Grammer/Aimsir Fháistineach (2 Syllable) - Study.canvas",
+    "Irish/1st Year/2. Grammer/Aimsir Fháistineach (1 Syllable) - Study.canvas",
+    "Irish/1st Year/2. Grammer/Aimsir Láíthreach (2 Syllable) - Study.canvas",
+    "English/1st Year/7. Film studies/Media Studies.canvas",
+    "Science/1st Year/2. Chemistry/1. States of matter/States of Matter - Study.canvas",
+    "Maths/1st Year/8. Statistics/Keywords - Statistics.canvas",
+    "Maths/1st Year/7. Probability/Keywords - Probability.canvas",
+    "Engineering/1st Year/1. Machines/Furnaces/Keywords - Furnaces.canvas"
+  ]
+}

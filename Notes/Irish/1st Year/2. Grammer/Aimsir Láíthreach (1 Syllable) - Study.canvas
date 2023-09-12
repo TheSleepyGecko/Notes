@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Leathan\nWords last vowel is\n**A, O or U**","id":"cd5f3ac8788d1bb9","x":-588,"y":-51,"width":250,"height":146,"color":"1"},
+		{"type":"text","text":"| Person | What to add |\n| - | - |\n| Mé | Aim |\n| Tú/Sé/Sí/Sibh/Siad | Ann |\n| Sinn | Aimid |\n| Saor | Tar |","id":"2f18a071134b6927","x":-603,"y":239,"width":281,"height":262,"color":"2"},
+		{"type":"text","text":"| Person | What to add |\n| - | - |\n| Mé | Im |\n| Tú/Sé/Sí/Sibh/Siad | Eann |\n| Sinn | Imid |\n| Saor | Tear |","id":"89359d046d159ac3","x":326,"y":239,"width":281,"height":262,"color":"#0b45f4"},
+		{"type":"text","text":"# Aimsir Láithreach 1 syllable\n","id":"0703d12e0b286d20","x":-109,"y":-144,"width":250,"height":187,"color":"#ffffff"},
+		{"type":"text","text":"### Caol\nWords last vowel is\n**I or E**","id":"93474d45126a52aa","x":342,"y":-51,"width":250,"height":146,"color":"#01cae4"}
+	],
+	"edges":[
+		{"id":"4ac9c230d545c484","fromNode":"cd5f3ac8788d1bb9","fromSide":"bottom","toNode":"2f18a071134b6927","toSide":"top"},
+		{"id":"69a6e632d92ae82a","fromNode":"0703d12e0b286d20","fromSide":"left","toNode":"cd5f3ac8788d1bb9","toSide":"right"},
+		{"id":"a58faf04980421c4","fromNode":"93474d45126a52aa","fromSide":"bottom","toNode":"89359d046d159ac3","toSide":"top"},
+		{"id":"b7f2dee67bf5d245","fromNode":"0703d12e0b286d20","fromSide":"right","toNode":"93474d45126a52aa","toSide":"left"}
+	]
+}

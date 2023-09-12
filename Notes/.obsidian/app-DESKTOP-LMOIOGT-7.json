@@ -1,0 +1,40 @@
+{
+  "showFrontmatter": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "attachmentFolderPath": "Pictures",
+  "foldHeading": false,
+  "foldIndent": false,
+  "autoPairMarkdown": false,
+  "autoConvertHtml": false,
+  "spellcheckDictionary": [
+    "Hellens",
+    "colour",
+    "skellig",
+    "capelli",
+    "gli",
+    "occhi",
+    "Links",
+    "tredici",
+    "anii",
+    "abito",
+    "Ratoath",
+    "sono",
+    "chiamo",
+    "anni",
+    "ExoMars",
+    "latteen",
+    "carracks",
+    "naos",
+    "portolan",
+    "frescos",
+    " fresco",
+    "parle",
+    "abite"
+  ]
+}

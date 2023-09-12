@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "eaacaa095626ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dcd4022c30eff53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a694a6a9db899a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Homework - To do.md"
+              }
+            }
+          },
+          {
+            "id": "ea3c9665f4c6a0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/1st Year/2. Materials/Electronics/Simple circuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7921364e81ea469a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c276085e51f273e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e962dc73f3c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95aacd48fd8af5cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68a7d57d8d51e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "35c2a247f2a3b68d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "cfd1164ec32a277b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba9f4bb3ba4bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9027bccc40a6e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engineering/1st Year/2. Materials/Electronics/Simple circuts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be16bdb4cfca09f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engineering/1st Year/2. Materials/Electronics/Simple circuts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d82d29795dc71fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da86f10b1690a901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engineering/1st Year/2. Materials/Electronics/Simple circuts.md"
+              }
+            }
+          },
+          {
+            "id": "64138d276b04101a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "997d9b344c0edadf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c138e3d873818de",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "ea3c9665f4c6a0ad",
+  "lastOpenFiles": [
+    "Maths/1st Year/1. Sets/A summary of sets.md",
+    "Daily/Daily notes.md",
+    "Daily/21-04-2023.md",
+    "Daily",
+    "Other/Features/Text Features.md",
+    "Other/Features/Tables.md",
+    "Other/Features/More Checkboxes.md",
+    "Other/Features/Links.md",
+    "Other/Features/Lists.md",
+    "Other/Features/Inline notes.md",
+    "Other/Features/Information Block.md",
+    "Other/Features/Image.md",
+    "Other/Features/Horizontal Rule!.md",
+    "Other/Features/Headings.md",
+    "Other/Plugins/Highltr.md",
+    "Other/Plugins/Better tables.md",
+    "Other/Features/Comment.md",
+    "Other/Features/Code Block.md",
+    "Other/Features/Blockquote.md",
+    "Other/Plugins/Kanban.md",
+    "Other/Plugins/Cmenu.md",
+    "Other/Purpose.md",
+    "Other/Testing.md",
+    "Other/Study plan.md",
+    "Other/Features",
+    "Other/Plugins",
+    "Other",
+    "Pictures/Pasted image 20230421125016.png",
+    "Kanban/Homework - To do.md",
+    "Engineering/1st Year/2. Materials/Electronics/Simple circuts.md",
+    "Pictures/Pasted image 20230421124713.png",
+    "Pictures/Pasted image 20230421124128.png",
+    "Pictures/Pasted image 20230421123708.png",
+    "Engineering/1st Year/3. Projects/Project 2 - Angry birds clock!.md",
+    "Engineering/1st Year/2. Materials/Plastics/Thermoplastics.canvas",
+    "Engineering/1st Year/2. Materials/Plastics/Thermo Setting Plastics.canvas",
+    "Engineering/1st Year/2. Materials/Metals/Properties of material - Study.canvas",
+    "Engineering/1st Year/2. Materials/Metals/Different materials - Study.canvas",
+    "History/1st year/2. Romans/Roman Army/Keywords - Romans - Roman army.canvas",
+    "History/1st year/2. Romans/Plebian & Partrician/Keywords - Romans - Plebian & Partrician.canvas",
+    "History/1st year/2. Romans/Entertainment/Keywords - Romans - Entertainment.canvas",
+    "Pictures/Blowhole.png",
+    "Pictures/Sea cave, arch, stack, and stump.png",
+    "Pictures/Cliff formation.png",
+    "Maths/1st Year/6. Coordinates/Keywords - Coordinate Geometry.canvas",
+    "Maths/1st Year/7. Probability/Keywords - Probability.canvas",
+    "History/1st year/1. Historian & Archeologist/Keywords - Historian and Archeologist.canvas",
+    "Pictures/Bay erosion diagram.png",
+    "Pictures/Resistor.png",
+    "Geography/1st Year/7. Coastlands and rivers",
+    "Science/1st Year/2. Chemistry/Elements, compounds and mixtures",
+    "Pictures/Dendrochronology.png",
+    "Box 5 - Every 9 days",
+    "Box 4 - Every 7 days",
+    "Box 3 - Every 5 days",
+    "Box 2 - Every 3 days"
+  ]
+}

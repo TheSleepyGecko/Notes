@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ce05ae6173e93476","x":-144,"y":-31,"width":250,"height":60,"color":"#ffffff","type":"text","text":"# The Bible"},
+		{"id":"e49596246335f6ac","x":3,"y":-207,"width":250,"height":60,"color":"1","type":"text","text":"### Jesus' Journey"},
+		{"id":"56c6e9d0ab052aa8","x":253,"y":-71,"width":250,"height":100,"color":"2","type":"text","text":"### New testament & Old testament"},
+		{"id":"7c7fc2a5dd930200","x":204,"y":80,"width":250,"height":60,"color":"3","type":"text","text":"### God's Kingdom"},
+		{"id":"78dedf231c61c98a","x":-87,"y":110,"width":250,"height":86,"color":"4","type":"text","text":"### Jesus calmed the storm"},
+		{"id":"b651c3db41c6ad93","x":-394,"y":80,"width":250,"height":91,"color":"5","type":"text","text":"### Moses parted the red sea"},
+		{"id":"1706c9c8a2b472c7","x":-394,"y":-185,"width":250,"height":114,"color":"6","type":"text","text":"### God wrote 10 Rules called commandments"}
+	],
+	"edges":[
+		{"id":"2657c1627f766776","fromNode":"ce05ae6173e93476","fromSide":"top","toNode":"e49596246335f6ac","toSide":"bottom","color":"1"},
+		{"id":"c1583e89e6ffd123","fromNode":"ce05ae6173e93476","fromSide":"right","toNode":"56c6e9d0ab052aa8","toSide":"left","color":"2"},
+		{"id":"3213e09f439cfc39","fromNode":"ce05ae6173e93476","fromSide":"bottom","toNode":"78dedf231c61c98a","toSide":"top","color":"4"},
+		{"id":"73d0ce68f9b98aa4","fromNode":"ce05ae6173e93476","fromSide":"right","toNode":"7c7fc2a5dd930200","toSide":"left","color":"3"},
+		{"id":"9f8fbefc60be1f65","fromNode":"ce05ae6173e93476","fromSide":"bottom","toNode":"b651c3db41c6ad93","toSide":"top","color":"5"},
+		{"id":"062c9e3aa3932d57","fromNode":"ce05ae6173e93476","fromSide":"left","toNode":"1706c9c8a2b472c7","toSide":"bottom","color":"6"}
+	]
+}

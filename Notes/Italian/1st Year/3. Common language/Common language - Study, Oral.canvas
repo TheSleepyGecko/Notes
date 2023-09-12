@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"25af4f5ff2e0ffb6","x":-83,"y":311,"width":250,"height":114,"color":"#ffffff","type":"text","text":"# Common language"},
+		{"id":"91ada3dc5674d65f","x":-501,"y":58,"width":250,"height":101,"color":"#ff0000","type":"text","text":"### 1. Masculine and feminine"},
+		{"id":"43120de451d41de8","x":-558,"y":305,"width":250,"height":60,"color":"#ff5c5c","type":"text","text":"### 2. Come stai"},
+		{"id":"37648723ee244be0","x":-25,"y":656,"width":250,"height":60,"color":"#e7a20d","type":"text","text":"### 4. Animals"},
+		{"id":"0c05fb29d9d1f55e","x":400,"y":365,"width":250,"height":60,"color":"#a7d110","type":"text","text":"### 6. Basic sentences"},
+		{"id":"31ea1a7bce6c94be","x":275,"y":157,"width":250,"height":60,"color":"#38f604","type":"text","text":"### 7. Time"},
+		{"id":"23cedbab52a5c167","x":-471,"y":596,"width":250,"height":60,"color":"#ec6104","type":"text","text":"### 3. Family"},
+		{"id":"a9d4bf217e7b6f87","x":344,"y":566,"width":250,"height":60,"color":"#dad41b","type":"text","text":"### 5. Numbers"},
+		{"id":"150a93774394b011","x":-25,"y":-2,"width":250,"height":60,"color":"#1086e0","type":"text","text":"### 8. Jobs"}
+	],
+	"edges":[
+		{"id":"1ffe4499d974e774","fromNode":"150a93774394b011","fromSide":"bottom","toNode":"25af4f5ff2e0ffb6","toSide":"top"},
+		{"id":"f3ceccc680f53b74","fromNode":"31ea1a7bce6c94be","fromSide":"bottom","toNode":"25af4f5ff2e0ffb6","toSide":"right"},
+		{"id":"77749d63a7bd75ec","fromNode":"0c05fb29d9d1f55e","fromSide":"left","toNode":"25af4f5ff2e0ffb6","toSide":"right"},
+		{"id":"979d3904dd304648","fromNode":"37648723ee244be0","fromSide":"top","toNode":"25af4f5ff2e0ffb6","toSide":"bottom"},
+		{"id":"f7e207569c21631d","fromNode":"a9d4bf217e7b6f87","fromSide":"top","toNode":"25af4f5ff2e0ffb6","toSide":"bottom"},
+		{"id":"ad98cc87fd6d1a30","fromNode":"43120de451d41de8","fromSide":"right","toNode":"25af4f5ff2e0ffb6","toSide":"left"},
+		{"id":"69e2eacd687e3ed0","fromNode":"91ada3dc5674d65f","fromSide":"bottom","toNode":"25af4f5ff2e0ffb6","toSide":"top"},
+		{"id":"76b8299cc8220239","fromNode":"23cedbab52a5c167","fromSide":"top","toNode":"25af4f5ff2e0ffb6","toSide":"left"}
+	]
+}

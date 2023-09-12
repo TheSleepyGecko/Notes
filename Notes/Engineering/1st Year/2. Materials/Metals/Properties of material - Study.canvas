@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Properties of materials","id":"bfc05c3cbc931f06","x":-111,"y":-96,"width":250,"height":115,"color":"#ffffff"},
+		{"type":"text","text":"### 6. Elasticity\nThe property of a material to allow it to return to its original shape when freed from a force stretching it. E.g. rubber band.\n**Test:** Pull apart and measure how long until it returns to its original shape.","id":"2733dc64294dd2d8","x":280,"y":-443,"width":294,"height":275,"color":"6"},
+		{"type":"text","text":"### 7. Conductivity\nThe ability of a material to allow heat or electricity to flow through it. E.g. steel, copper\n**Test:** put a flame on one side and a thermometer on the other and see how quickly the temperature rises.","id":"ac3307d85720336a","x":-151,"y":-472,"width":267,"height":282,"color":"#e212c7"},
+		{"type":"text","text":"### 3. Malleability\nA property of a material that allows it to be extended in all directions without breaking e.g. coins.\n**Test:** Flatten in all directions with a hammer.","id":"d0c9c2a2a665156a","x":-299,"y":198,"width":250,"height":253,"color":"3"},
+		{"type":"text","text":"### 2. Ductility\nDuctility is the ability of a material to be stretched without breaking.\n**Test:** Pull it apart, see if it breaks.","id":"4cd89563b3cc7c4d","x":-579,"y":-38,"width":250,"height":236,"color":"2"},
+		{"type":"text","text":"### 1. Hardness\nHardness is the ability to resist abrasive wear.\n**Test:** Scratch it with a scriber.","id":"4091fef6f22faf52","x":-549,"y":-331,"width":250,"height":183,"color":"1"},
+		{"type":"text","text":"### 4. Toughness\nThe ability of a material to withstand blows or an impact.\n**Test:** Hit it with a hammer","id":"13dc36d4bb7ec906","x":116,"y":198,"width":250,"height":198,"color":"4"},
+		{"type":"text","text":"### 5. Brittleness\nA Brittle material can be easily broken by an  impact. E.g. Glass or Acrylic\n**Test:** Hit lightly with a hammer","id":"692c920414273375","x":389,"y":-96,"width":250,"height":236,"color":"5"}
+	],
+	"edges":[
+		{"id":"dcea8ab5c9c759eb","fromNode":"ac3307d85720336a","fromSide":"bottom","toNode":"bfc05c3cbc931f06","toSide":"top"},
+		{"id":"fab00e3c6daa0cfc","fromNode":"4091fef6f22faf52","fromSide":"right","toNode":"bfc05c3cbc931f06","toSide":"left"},
+		{"id":"36051768c283d478","fromNode":"4cd89563b3cc7c4d","fromSide":"right","toNode":"bfc05c3cbc931f06","toSide":"left"},
+		{"id":"75b094842a19e1be","fromNode":"d0c9c2a2a665156a","fromSide":"top","toNode":"bfc05c3cbc931f06","toSide":"bottom"},
+		{"id":"b889ce2a1038f7a2","fromNode":"13dc36d4bb7ec906","fromSide":"top","toNode":"bfc05c3cbc931f06","toSide":"bottom"},
+		{"id":"a2a42383384a97db","fromNode":"692c920414273375","fromSide":"left","toNode":"bfc05c3cbc931f06","toSide":"right"},
+		{"id":"0380a8879c8992a0","fromNode":"2733dc64294dd2d8","fromSide":"left","toNode":"bfc05c3cbc931f06","toSide":"right"}
+	]
+}

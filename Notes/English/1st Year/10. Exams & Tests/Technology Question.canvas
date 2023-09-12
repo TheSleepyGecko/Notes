@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"cc0592eabfb6241e","x":-112,"y":-25,"width":250,"height":124,"color":"#ffffff","type":"text","text":"# Technology Question"},
+		{"id":"3b95d769ba9c10b2","x":-682,"y":-376,"width":250,"height":60,"color":"#087733","type":"text","text":"### More efficent"},
+		{"id":"ef19e7d2597e3df4","x":271,"y":-316,"width":250,"height":119,"color":"#e09f9f","type":"text","text":"### Spend too much time on the screen"},
+		{"id":"63c935e3da391a18","x":445,"y":69,"width":250,"height":60,"color":"#ee7272","type":"text","text":"### Cyberbullying"},
+		{"id":"e017906f7a4eb283","x":195,"y":231,"width":250,"height":60,"color":"#8c3636","type":"text","text":"### Misinformation"},
+		{"id":"ede1c00e6f070cef","x":521,"y":-159,"width":250,"height":134,"color":"#da1010","type":"text","text":"### Don't always know who is behind the screen"},
+		{"id":"ce1139fd574194d9","x":-784,"y":348,"width":250,"height":117,"color":"#8fd190","type":"text","text":"### Meet people from all over the world"},
+		{"id":"91a319993ff18b1a","x":-932,"y":86,"width":250,"height":175,"color":"#00d12a","type":"text","text":"### Easier to communicate through a screen than face to face"},
+		{"id":"79f0c63f53a25dfa","x":-432,"y":357,"width":250,"height":50,"color":"#5a9009","type":"text","text":"### Faster"},
+		{"id":"6c3ef7ff03b3e3f7","x":-487,"y":201,"width":250,"height":60,"color":"#08af59","type":"text","text":"### Saves time"},
+		{"id":"fe34c1d72412b7d7","x":-932,"y":-238,"width":250,"height":114,"color":"#73fb04","type":"text","text":"### Lot of ways to connect"},
+		{"id":"df3676e924cc4f7c","x":-659,"y":26,"width":250,"height":60,"color":"#9ee619","type":"text","text":"### Pass on information"},
+		{"id":"0c9278b7e6120d89","x":-807,"y":-92,"width":250,"height":92,"color":"#55a046","type":"text","text":"### Communicate with anyone"},
+		{"id":"36627c5be4b00eb2","x":-409,"y":-256,"width":250,"height":108,"color":"#11ff00","type":"text","text":"### Communicate from anywhere"}
+	],
+	"edges":[
+		{"id":"27e71607cbe7e823","fromNode":"79f0c63f53a25dfa","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"e4addd90a619ce47","fromNode":"6c3ef7ff03b3e3f7","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"619bf1c8063aa7a1","fromNode":"0c9278b7e6120d89","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"38dc703b314e105a","fromNode":"36627c5be4b00eb2","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"ddb3b4030e0b23cd","fromNode":"3b95d769ba9c10b2","fromSide":"bottom","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"8f61e68ebb2f6803","fromNode":"df3676e924cc4f7c","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"f0043352cad6f91b","fromNode":"ce1139fd574194d9","fromSide":"top","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"eb426333124f2040","fromNode":"91a319993ff18b1a","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"77ee7e0cb891b7d8","fromNode":"fe34c1d72412b7d7","fromSide":"right","toNode":"cc0592eabfb6241e","toSide":"left"},
+		{"id":"d93ce6b5ea960592","fromNode":"ef19e7d2597e3df4","fromSide":"left","toNode":"cc0592eabfb6241e","toSide":"right"},
+		{"id":"8b94d81606e7d355","fromNode":"ede1c00e6f070cef","fromSide":"left","toNode":"cc0592eabfb6241e","toSide":"right"},
+		{"id":"c36fe27cd8f75605","fromNode":"e017906f7a4eb283","fromSide":"left","toNode":"cc0592eabfb6241e","toSide":"right"},
+		{"id":"dae89e3390914322","fromNode":"63c935e3da391a18","fromSide":"left","toNode":"cc0592eabfb6241e","toSide":"right"}
+	]
+}

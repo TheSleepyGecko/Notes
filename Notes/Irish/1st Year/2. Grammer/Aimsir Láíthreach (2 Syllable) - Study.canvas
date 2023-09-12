@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Caol\nWords last vowel is\n**I or E**","id":"017b22fa50eb6203","x":339,"y":-206,"width":250,"height":146,"color":"#00cfeb"},
+		{"type":"text","text":"### Leathan\nWords last vowel is\n**A, O or U**","id":"ec95c5ae520b1b38","x":-590,"y":-206,"width":250,"height":146,"color":"1"},
+		{"type":"text","text":"You have to replace the igh at the end of the word with one of the presets below.\n\n| Person | What to add |\n| - | - |\n| Mé | Ím |\n| Tú/Sé/Sí/Sibh/Siad | íonn |\n| Sinn | Ímid |\n| Saor | Ítear |\n","id":"8c28f505c4091df4","x":324,"y":84,"width":281,"height":361,"color":"#1800cc"},
+		{"type":"text","text":"# Aimsir Láithreach 2 syllables\n","id":"3d4be11d6de676bc","x":-111,"y":-299,"width":250,"height":187,"color":"#ffffff"},
+		{"type":"text","text":"You have to replace the aigh at the end of the word with one of the presets below.\n\n| Person | What to add |\n| - | - |\n| Mé | Aím |\n| Tú/Sé/Sí/Sibh/Siad | Aíonn |\n| Sinn | Aímid |\n| Saor | Aítear |","id":"ddb8e34481217f22","x":-605,"y":84,"width":281,"height":361,"color":"2"},
+		{"type":"text","text":"### Squishables\nSquishables are verbs that are irregular and end in -ir, -ail, -is, -il or -in. You need to replace the last letters with one of the caol or leathan presets. Use the vowel before the endings to figure out if it is caol or leathan.","id":"bc39397791ee0f39","x":-129,"y":111,"width":287,"height":334,"color":"4"}
+	],
+	"edges":[
+		{"id":"edd60e4bb8f46314","fromNode":"017b22fa50eb6203","fromSide":"bottom","toNode":"8c28f505c4091df4","toSide":"top"},
+		{"id":"3afe5fd95d22f5d3","fromNode":"3d4be11d6de676bc","fromSide":"right","toNode":"017b22fa50eb6203","toSide":"left"},
+		{"id":"4eceadd8b14aef13","fromNode":"ec95c5ae520b1b38","fromSide":"bottom","toNode":"ddb8e34481217f22","toSide":"top"},
+		{"id":"e7e5152b14c2b1b8","fromNode":"3d4be11d6de676bc","fromSide":"left","toNode":"ec95c5ae520b1b38","toSide":"right"},
+		{"id":"d68588337dee582e","fromNode":"3d4be11d6de676bc","fromSide":"bottom","toNode":"bc39397791ee0f39","toSide":"top"}
+	]
+}

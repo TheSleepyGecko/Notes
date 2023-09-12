@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Sets","id":"3cd75b3f581ed845","x":-93,"y":-35,"width":250,"height":60,"color":"#cfc4c4"},
+		{"type":"text","text":"### 6. Cardinal Number `#`\nThe cardinal number shows how many elements there are in a set. It is shown with a hashtag and no curly brackets. `#A = 4`","id":"a8e6099bc8e8c713","x":420,"y":271,"width":275,"height":257,"color":"#9ef005"},
+		{"type":"text","text":"### 2. Element ∈\nAn element is an object in a set which is seperated by commas","id":"f650ece50375a565","x":-701,"y":94,"width":250,"height":158,"color":"#f56156"},
+		{"type":"text","text":"### 5. Equal Set\nAn equal set is a set which has the same elements as another set and can be written like this. A = B.","id":"77e3c993f9011048","x":17,"y":354,"width":250,"height":212,"color":"#ffe229"},
+		{"type":"text","text":"### 4. Null Set Ø/{}\nA null set is a set with no elements but still has a reason to be together.","id":"9038d3b8330edaf3","x":-279,"y":447,"width":250,"height":165,"color":"#ea9739"},
+		{"type":"text","text":"### 3. Set Formating\nA set must be surrounded by curly brackets and elements must be seperated by commas.\n\nA = {1,2,3,4,5}","id":"c1501e45c514053d","x":-601,"y":342,"width":250,"height":245,"color":"#ec7513"},
+		{"type":"text","text":"### 7. Subset  ⊂\nA subset is a smaller part of a set. There are two irregular subsets, the null subset and the equal subset.","id":"0b1a1ff713391772","x":647,"y":29,"width":250,"height":217,"color":"#29f500"},
+		{"type":"text","text":"### 8. Intersection ∩\nThese are the elements that two sets share\n\nA = {1,2,3,4,5}\nB = {2,4,6,8,10}\nA ∩ B = {2,4}","id":"18b4d3eb377b9dc4","x":733,"y":-347,"width":250,"height":244,"color":"#18ec69"},
+		{"type":"text","text":"### 9. Union ∪\nUnion is a set which contains all of the elements from two sets combined.\n\nA = {1,2,3,4,5}\nB = {2,4,6,8,10}\n\nA ∪ B = {1,2,3,4,5,6,8,10}","id":"826cf80701d39d45","x":455,"y":-608,"width":250,"height":324,"color":"#1df7ae"},
+		{"type":"text","text":"### 11. Compliment '\nCompliment means everything except for that set. It is written like this A' and is pronounced A compliment","id":"c14c9354f7788e77","x":-214,"y":-693,"width":250,"height":251,"color":"#0e4ee1"},
+		{"type":"text","text":"### 10. Universal set \nThe universal set is a set of everything in a venn diagram. So all sets and outside the sets as well and is donoted with the letter U.","id":"9d47f8086f9d2985","x":154,"y":-729,"width":250,"height":255,"color":"#02dec4"},
+		{"type":"text","text":"###  12. Without /\nWithout is written like A/B which means A without B and is everything in a without the intersection","id":"4c3291e23aeaf1dd","x":-555,"y":-610,"width":250,"height":224,"color":"#5913fb"},
+		{"type":"text","text":"### 13. Venn diagram\nA way of illustrating a set using two or more overlapping circles.","id":"9adcec092550cabe","x":-637,"y":-323,"width":250,"height":169,"color":"#ab0757"},
+		{"type":"text","text":"### 1. What is a set?\nA set is a group of well defined objects.","id":"8be1c38d2f79a7be","x":-642,"y":-105,"width":250,"height":131,"color":"#db2424"}
+	],
+	"edges":[
+		{"id":"1ebf0f3a558ca192","fromNode":"8be1c38d2f79a7be","fromSide":"right","toNode":"3cd75b3f581ed845","toSide":"left"},
+		{"id":"d8203ca7799d6e26","fromNode":"f650ece50375a565","fromSide":"right","toNode":"3cd75b3f581ed845","toSide":"left"},
+		{"id":"cd4ae89dc76dfb70","fromNode":"c1501e45c514053d","fromSide":"top","toNode":"3cd75b3f581ed845","toSide":"bottom"},
+		{"id":"983ecf8633d405c6","fromNode":"9038d3b8330edaf3","fromSide":"top","toNode":"3cd75b3f581ed845","toSide":"bottom"},
+		{"id":"083b173b46c85645","fromNode":"18b4d3eb377b9dc4","fromSide":"bottom","toNode":"3cd75b3f581ed845","toSide":"top"},
+		{"id":"1310b427e2e04e9d","fromNode":"826cf80701d39d45","fromSide":"bottom","toNode":"3cd75b3f581ed845","toSide":"top"},
+		{"id":"de4967f442fbf59b","fromNode":"9d47f8086f9d2985","fromSide":"bottom","toNode":"3cd75b3f581ed845","toSide":"top"},
+		{"id":"f3c7390662db3a5d","fromNode":"c14c9354f7788e77","fromSide":"bottom","toNode":"3cd75b3f581ed845","toSide":"top"},
+		{"id":"c7455be74988b70c","fromNode":"0b1a1ff713391772","fromSide":"left","toNode":"3cd75b3f581ed845","toSide":"right"},
+		{"id":"31787c0216a17a0e","fromNode":"a8e6099bc8e8c713","fromSide":"left","toNode":"3cd75b3f581ed845","toSide":"right"},
+		{"id":"c4ab2acff6930225","fromNode":"77e3c993f9011048","fromSide":"top","toNode":"3cd75b3f581ed845","toSide":"bottom"},
+		{"id":"739724aaf5e0c603","fromNode":"4c3291e23aeaf1dd","fromSide":"right","toNode":"3cd75b3f581ed845","toSide":"left"},
+		{"id":"c8fc4df259f2e08b","fromNode":"9adcec092550cabe","fromSide":"right","toNode":"3cd75b3f581ed845","toSide":"left"}
+	]
+}

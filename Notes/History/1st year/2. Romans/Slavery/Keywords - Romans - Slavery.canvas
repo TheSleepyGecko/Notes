@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d630c6cf4ee39689","x":-540,"y":-344,"width":930,"height":425,"type":"group","label":"Slavery"},
+		{"type":"text","text":"# Slavery","id":"44203537dfe50b76","x":-89,"y":-324,"width":250,"height":60},
+		{"type":"text","text":"### Spartacus","id":"ff3aa4225e8910ff","x":-339,"y":-140,"width":250,"height":60},
+		{"id":"fb484856ee8dbfbe","x":-520,"y":1,"width":250,"height":60,"type":"text","text":"#### Crassus"},
+		{"id":"be253dd279c629c8","x":-180,"y":1,"width":250,"height":60,"type":"text","text":"#### Crucifixtion"},
+		{"id":"752b6d50d6c30509","x":120,"y":-140,"width":250,"height":60,"type":"text","text":"### Slave work"}
+	],
+	"edges":[
+		{"id":"df1045e7c8ed1744","fromNode":"ff3aa4225e8910ff","fromSide":"bottom","toNode":"be253dd279c629c8","toSide":"top"},
+		{"id":"ce926c7d3be5a3f1","fromNode":"ff3aa4225e8910ff","fromSide":"bottom","toNode":"fb484856ee8dbfbe","toSide":"top"},
+		{"id":"6b9bdb0b56d326b7","fromNode":"44203537dfe50b76","fromSide":"bottom","toNode":"ff3aa4225e8910ff","toSide":"top"},
+		{"id":"c1c1b5e718ceebe3","fromNode":"44203537dfe50b76","fromSide":"bottom","toNode":"752b6d50d6c30509","toSide":"top"}
+	]
+}

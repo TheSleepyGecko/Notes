@@ -1,0 +1,1 @@
+This plugin allows you to make a kanban board with special cards which are very useful for homework. All of the boards are contained inside the kanban boarder.

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Living Things\nEvery living thing has 7 fundamental characteristics, these are.\n\n| Characteristic | Meaning |\n| --- | --- |\n| Nutrition | The way living things get food |\n| Respiration | The release of energy from food |\n| Excretion | The way in living things get rid of wastes. |\n| Growth | The way living things get food |\n| Reproduction |  Cells divide allowing things to grow. |\n| Movement | Animals move towards food. Plant movement is much slower. |\n| Response | The way in living things react to changes in their surroundings. |\n\nAll living things are made up of cells, cells are the building blocks of life. All cells are either a plant cell or an animal cell.\n\n![[Cell Diagram.png]]","id":"964601dd831fa557","x":-301,"y":165,"width":628,"height":949,"color":"1"},
+		{"type":"text","text":"### Plant Cells\nPlant cells are rectangular in shape and are made up of six sections. **The Cell Membrane** holds in the contents of the cells and controls what enters and leaves the cell. **Nucleus** control center of the cell. Contains genes and DNA which we inherit from our parents. **Cyptoplasm** carries out cell reactions. **The Cell wall** was the layer around the cell which contains glucose which gave strength to the cell. **Chloropasts** contained chlorophyll for photosynthesis. **The Vacuole** Stored food and gave energy to the cell.","id":"9c9b8287ce15da4f","x":-1026,"y":165,"width":393,"height":435,"color":"2"},
+		{"type":"text","text":"### Animal Cells\nAnimal cells are circular in shape and are made up of three sections. **The Cell Membrane** holds in the contents of the cells and controls what enters and leaves the cell. **Nucleus** control center of the cell. Contains genes and DNA which we inherit from our parents. **Cyptoplasm** carries out cell reactions.","id":"860e118f32acd0bc","x":629,"y":768,"width":308,"height":372,"color":"3"},
+		{"type":"text","text":"# Cells","id":"fda1e119371fab8c","x":-112,"y":5,"width":250,"height":60,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"a0a7b1a513568511","fromNode":"964601dd831fa557","fromSide":"top","toNode":"fda1e119371fab8c","toSide":"bottom"},
+		{"id":"5b345d3908f7f99e","fromNode":"860e118f32acd0bc","fromSide":"left","toNode":"964601dd831fa557","toSide":"right"},
+		{"id":"415ecb7317e09952","fromNode":"9c9b8287ce15da4f","fromSide":"right","toNode":"964601dd831fa557","toSide":"left"}
+	]
+}

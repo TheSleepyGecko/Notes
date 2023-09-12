@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"dfa8a60f6237f61b","x":-135,"y":-46,"width":250,"height":238,"color":"#ffffff","type":"text","text":"### P.E.E/P.Q.E/P.I.E\n**P:** Point\n**E:** Evidence\n**Q:** Quote\n**I:** Illustrate\n**E:** Explain\n**L:** Link"},
+		{"id":"f9e4af3212d677a7","x":214,"y":-268,"width":250,"height":60,"color":"1","type":"text","text":"##### Question"},
+		{"id":"a1ab8976c3ba92b9","x":339,"y":-155,"width":250,"height":60,"color":"2","type":"text","text":"##### Text"},
+		{"id":"8058ef1cb26f128f","x":306,"y":13,"width":250,"height":60,"color":"3","type":"text","text":"##### Opinion"},
+		{"id":"8bc17820b56e145c","x":279,"y":213,"width":250,"height":60,"color":"4","type":"text","text":"##### Link back to question"},
+		{"id":"ba56c343335fa958","x":685,"y":-268,"width":250,"height":60,"color":"#9b4703","type":"text","text":"##### Book"},
+		{"id":"90c9e8db87d8acf1","x":685,"y":-125,"width":250,"height":60,"color":"#ff7300","type":"text","text":"##### Poem"},
+		{"id":"cca0e90de18baf33","x":685,"y":-17,"width":250,"height":60,"color":"#e6a07a","type":"text","text":"##### Comprehension"}
+	],
+	"edges":[
+		{"id":"6a0fc6c38dedae34","fromNode":"dfa8a60f6237f61b","fromSide":"right","toNode":"f9e4af3212d677a7","toSide":"left"},
+		{"id":"816c0893d578f6d7","fromNode":"dfa8a60f6237f61b","fromSide":"right","toNode":"a1ab8976c3ba92b9","toSide":"left"},
+		{"id":"13f4066c1d54638c","fromNode":"dfa8a60f6237f61b","fromSide":"right","toNode":"8058ef1cb26f128f","toSide":"left"},
+		{"id":"ac2a0141d0b79188","fromNode":"dfa8a60f6237f61b","fromSide":"right","toNode":"8bc17820b56e145c","toSide":"left"},
+		{"id":"1906b82f18bf247c","fromNode":"a1ab8976c3ba92b9","fromSide":"right","toNode":"cca0e90de18baf33","toSide":"left"},
+		{"id":"dcd5bbdeedac2e2a","fromNode":"a1ab8976c3ba92b9","fromSide":"right","toNode":"90c9e8db87d8acf1","toSide":"left"},
+		{"id":"20b55c52711c59f4","fromNode":"a1ab8976c3ba92b9","fromSide":"right","toNode":"ba56c343335fa958","toSide":"left"}
+	]
+}

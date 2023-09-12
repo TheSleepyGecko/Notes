@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"aaf0b856b9f42dbc","x":-970,"y":-331,"width":1758,"height":585,"type":"group","label":"Roman Army"},
+		{"type":"text","text":"### Sections","id":"26b9e60176ecbb5b","x":-783,"y":-127,"width":250,"height":60},
+		{"type":"text","text":"#### Legions","id":"48cc3e7cfe7a4431","x":-637,"y":81,"width":250,"height":60},
+		{"type":"text","text":"#### Centuries","id":"c3e109bc88653d9f","x":-950,"y":81,"width":250,"height":60},
+		{"type":"text","text":"# Roman Army","id":"0a1b27d4235ee702","x":-132,"y":-311,"width":250,"height":60},
+		{"type":"text","text":"### Housing","id":"1288b6f13dbcd882","x":-132,"y":-97,"width":250,"height":60},
+		{"type":"text","text":"#### Weapons","id":"aa1e6469c8d0b6b5","x":31,"y":21,"width":250,"height":60},
+		{"type":"text","text":"#### Grid pattern","id":"9bf1ccff67b41ef7","x":-313,"y":21,"width":250,"height":60},
+		{"type":"text","text":"### Patterns","id":"61843a6377401c4c","x":518,"y":-127,"width":250,"height":60},
+		{"type":"text","text":"#### Tartuga","id":"f4ebb58e3b92657c","x":518,"y":81,"width":250,"height":60},
+		{"type":"text","text":"##### Bows","id":"93deed713a8504bc","x":31,"y":174,"width":250,"height":60},
+		{"type":"text","text":"##### Long swords","id":"b14e8c0410febea2","x":321,"y":174,"width":250,"height":60},
+		{"type":"text","text":"##### Spears","id":"9809f3031590665f","x":-257,"y":174,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"eb7b920e2fe15182","fromNode":"26b9e60176ecbb5b","fromSide":"bottom","toNode":"c3e109bc88653d9f","toSide":"top"},
+		{"id":"f893929cb5c8e96a","fromNode":"26b9e60176ecbb5b","fromSide":"bottom","toNode":"48cc3e7cfe7a4431","toSide":"top"},
+		{"id":"4bc308737820fe63","fromNode":"0a1b27d4235ee702","fromSide":"bottom","toNode":"26b9e60176ecbb5b","toSide":"top"},
+		{"id":"2fb47443c6030cb6","fromNode":"0a1b27d4235ee702","fromSide":"bottom","toNode":"1288b6f13dbcd882","toSide":"top"},
+		{"id":"356c9590319e852f","fromNode":"1288b6f13dbcd882","fromSide":"bottom","toNode":"aa1e6469c8d0b6b5","toSide":"top"},
+		{"id":"2ee289d519c7bbd3","fromNode":"1288b6f13dbcd882","fromSide":"bottom","toNode":"9bf1ccff67b41ef7","toSide":"top"},
+		{"id":"b1c60731ae0ebe9c","fromNode":"0a1b27d4235ee702","fromSide":"bottom","toNode":"61843a6377401c4c","toSide":"top"},
+		{"id":"5c346d7b75b06987","fromNode":"61843a6377401c4c","fromSide":"bottom","toNode":"f4ebb58e3b92657c","toSide":"top"},
+		{"id":"50a98b3e02c59f17","fromNode":"aa1e6469c8d0b6b5","fromSide":"bottom","toNode":"b14e8c0410febea2","toSide":"top"},
+		{"id":"73fd2cad197e1f4c","fromNode":"aa1e6469c8d0b6b5","fromSide":"bottom","toNode":"93deed713a8504bc","toSide":"top"},
+		{"id":"18e8981b1cb84514","fromNode":"aa1e6469c8d0b6b5","fromSide":"bottom","toNode":"9809f3031590665f","toSide":"top"}
+	]
+}

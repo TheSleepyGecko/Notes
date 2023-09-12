@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ecf8a68a955196e1","x":-1054,"y":-80,"width":250,"height":60,"type":"text","text":"# Start"},
+		{"id":"74005d2489ae0716","x":-431,"y":-134,"width":309,"height":169,"type":"text","text":"# 30 CE - 33 CE\n# The life stage"},
+		{"id":"a4c9e0d23463c3dd","x":-431,"y":-387,"width":309,"height":211,"type":"text","text":"- The last 3 years of Jesus' life.\n- Journey across Palestine with his disciples teaching about the love of God.\n- Miracles - healing the sick or disabled who were brought to him"},
+		{"id":"7d4ff8e39047e95a","x":520,"y":-128,"width":294,"height":157,"type":"text","text":"# 33 CE - 70 CE\n# The Oral Stage"},
+		{"id":"34d10aee16242e12","x":520,"y":-465,"width":294,"height":289,"type":"text","text":"- Excitement after Pentecost\n- Jesus desire for his disciples to tell everyone that `Jesus is alive, Jesus is the son of God`\n- Jesus' story was memorised and retold again and again. It was passed from person to person by word of mouth."},
+		{"id":"44d04a88f3c8d9fa","x":1541,"y":-116,"width":326,"height":133,"type":"text","text":"# 70 CE - 100 CE\n# The Writen Stage"},
+		{"id":"7a7ddd1dbaab990e","x":1541,"y":-425,"width":326,"height":249,"type":"text","text":"- The Evangelists about Jesus in the Gospels.\n- Time passes by. The apostles become older and some pass away.\n- Others give first hand accounts of Jesus' crucifixion, death and resurrection."}
+	],
+	"edges":[
+		{"id":"2921e91ac8e885f4","fromNode":"ecf8a68a955196e1","fromSide":"right","toNode":"74005d2489ae0716","toSide":"left","color":"1"},
+		{"id":"154e6ee0de215ea9","fromNode":"74005d2489ae0716","fromSide":"right","toNode":"7d4ff8e39047e95a","toSide":"left","color":"2"},
+		{"id":"d74e88d0c4c89a45","fromNode":"7d4ff8e39047e95a","fromSide":"right","toNode":"44d04a88f3c8d9fa","toSide":"left","color":"3"}
+	]
+}

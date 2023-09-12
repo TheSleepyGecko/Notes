@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5e4cc109c70cd499","x":-141,"y":-76,"width":250,"height":114,"color":"#ffffff","type":"text","text":"# Tectonic plates"},
+		{"id":"984c21a391bf5be9","x":-642,"y":-497,"width":356,"height":421,"color":"1","type":"text","text":"### 1. Earth's Structure.\nThe earth consists of four parts, **The crust:** The crust is the thinnest layer and is the surface of the Earth.\n**Mantle:** The mantle is the largest layer and is located directly below the crust and is made up of semi-molten magma. **The outer core:** The outer core is the third layer in the Earth and the outside of the core, it is made up of many metals. **Inner core:** The inner core is the most dense part of the earth and the very center it is made of up many different liquidised metals."},
+		{"id":"99e6b077b5ade4c0","x":-589,"y":38,"width":238,"height":229,"color":"2","type":"text","text":"### 2. What are tectonic plates?\nTectonic plates are different sections of the Earth's crust and they make up the continents."},
+		{"id":"bdd6ecd55d730954","x":-225,"y":186,"width":418,"height":391,"color":"3","type":"text","text":"### 3. Plate boundarys.\nPlate boundarys are the places inbetween different tectonic plates, there are three types. **Constructive Plate Boundarys:** Consructive plate boundarys are when the plates move away from each other and create volcanic island or mid ocean ridges. **Destructive plate boundarys:** They move towards each other and create fold mountains by allowing the heavier plate to go underneath and the lighter one goes on top. **Transform Plate Boundarys:** Transform plate boundarys slide past each other and create earthquakes and tsunamis."},
+		{"id":"f5c90d4119423b54","x":295,"y":228,"width":250,"height":154,"color":"4","type":"text","text":"### 4. Tsunamis\nTsunamis are large series of waves created by transform plate boundarys."},
+		{"id":"d2c755316225830b","x":396,"y":-200,"width":298,"height":296,"color":"5","type":"text","text":"### 5. Earthquake pervention\nEarthquakes can not be pervented but the damage can be minimised by predicting them using seismographs, Practicing earthquake drills or adding rubber shock absorbers to concrete buildings."},
+		{"id":"452709dad7452dc3","x":109,"y":-497,"width":250,"height":231,"color":"6","type":"text","text":"### 6. Volcanic activity\nVolcanos can be created by constructive plate boundarys and consist of the side vent, ventm magma chamber, craterm ash cloud and the cone."},
+		{"id":"096d62ab073e75ad","x":-192,"y":-497,"width":250,"height":297,"color":"#c50ec8","type":"text","text":"### 7. Mid ocean ridges\nMid ocean ridges are gaps are caverns in the middle of the ocean between two tectonic plates, these are created when two plates at a contstructive plate boundary move away from each other creating a mid ocean ridge."}
+	],
+	"edges":[
+		{"id":"8030183322010961","fromNode":"984c21a391bf5be9","fromSide":"right","toNode":"5e4cc109c70cd499","toSide":"left"},
+		{"id":"d16b4f0f408c8dc3","fromNode":"99e6b077b5ade4c0","fromSide":"right","toNode":"5e4cc109c70cd499","toSide":"left"},
+		{"id":"645427e9ca9ce092","fromNode":"bdd6ecd55d730954","fromSide":"top","toNode":"5e4cc109c70cd499","toSide":"bottom"},
+		{"id":"f746aecf3e42231d","fromNode":"f5c90d4119423b54","fromSide":"top","toNode":"5e4cc109c70cd499","toSide":"bottom"},
+		{"id":"ae2c4075f1327ff6","fromNode":"d2c755316225830b","fromSide":"left","toNode":"5e4cc109c70cd499","toSide":"right"},
+		{"id":"52a7006f434f765b","fromNode":"452709dad7452dc3","fromSide":"bottom","toNode":"5e4cc109c70cd499","toSide":"top"},
+		{"id":"72a81af1251af537","fromNode":"096d62ab073e75ad","fromSide":"bottom","toNode":"5e4cc109c70cd499","toSide":"top"}
+	]
+}

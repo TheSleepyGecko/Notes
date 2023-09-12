@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Aimsir Fháistineach 2 syllable\n","id":"8879c77ab0232114","x":-759,"y":-480,"width":250,"height":187,"color":"#ffffff"},
+		{"type":"text","text":"You must add one of the presets onto the word you want to make future tense\n\n| Person | What to add |\n| --- | --- |\n| Mé | óidh mé|\n| Tú | óidh tú|\n| Sé/Sí | óidh sé/sí|\n| Sinn | óimid |\n| Sibh | óibh sibh |\n| Siad | óibh siad |\n| Saor | ófar |","id":"d5ec371f5e3b5cdd","x":-1266,"y":-238,"width":250,"height":518,"color":"2"},
+		{"type":"text","text":"### Leathan\n**a, o, u**","id":"e191c8b2f7a72f83","x":-1266,"y":-530,"width":250,"height":101,"color":"1"},
+		{"type":"text","text":"### Caol\n**i, e**","id":"a7425ad872f8c42b","x":-252,"y":-530,"width":250,"height":101,"color":"#5643ea"},
+		{"type":"text","text":"You must add one of the presets onto the word you want to make future tense\n\n| Person | What to add |\n| --- | --- |\n| Mé | eoidh mé|\n| Tú | eoidh tú|\n| Sé/Sí | eoidh sé/sí|\n| Sinn | eoimid |\n| Sibh | eoidh sibh |\n| Siad | eoidh siad |\n| Saor | eofar |","id":"70589a91e5ce8fa5","x":-252,"y":-238,"width":250,"height":518,"color":"5"},
+		{"type":"text","text":"### Squishables\nSquishables are verbs that are irregular and end in -ir, -ail, -is, -il or -in. You need to replace the last letters with one of the caol or leathan presets. Use the vowel before the endings to figure out if it is caol or leathan.","id":"27a1f908f0765acc","x":-777,"y":-80,"width":287,"height":334,"color":"4"}
+	],
+	"edges":[
+		{"id":"835e85a3e8de27d1","fromNode":"8879c77ab0232114","fromSide":"right","toNode":"a7425ad872f8c42b","toSide":"left"},
+		{"id":"cc1c9c996fe8e56a","fromNode":"a7425ad872f8c42b","fromSide":"bottom","toNode":"70589a91e5ce8fa5","toSide":"top"},
+		{"id":"7102f3ad6c1dbdc2","fromNode":"8879c77ab0232114","fromSide":"left","toNode":"e191c8b2f7a72f83","toSide":"right"},
+		{"id":"a9c38bcab69b6db3","fromNode":"e191c8b2f7a72f83","fromSide":"bottom","toNode":"d5ec371f5e3b5cdd","toSide":"top"},
+		{"id":"c35cf262b5a9f1ff","fromNode":"8879c77ab0232114","fromSide":"bottom","toNode":"27a1f908f0765acc","toSide":"top"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"bd200a7a92a2d821","x":-635,"y":-160,"width":1345,"height":610,"type":"group","label":"Monasteries"},
+		{"id":"030d86c45158bf83","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"# Monasteries"},
+		{"id":"05ab83f58c2c15fa","x":-10,"y":110,"width":250,"height":60,"type":"text","text":"### Prayer"},
+		{"id":"74e522e839801c61","x":280,"y":110,"width":250,"height":60,"type":"text","text":"### Skellig Michael"},
+		{"id":"87f44b6d66f8e000","x":-305,"y":110,"width":250,"height":60,"type":"text","text":"### Food"},
+		{"id":"764d7077e44baa34","x":-615,"y":110,"width":250,"height":60,"type":"text","text":"### Sandals"},
+		{"id":"d812119210af026b","x":280,"y":240,"width":250,"height":60,"type":"text","text":"#### Monk"},
+		{"id":"a9b9b5bb24069ef1","x":115,"y":370,"width":250,"height":60,"type":"text","text":"##### Woolen cloaks"},
+		{"id":"c6ff390b40ba76d1","x":440,"y":370,"width":250,"height":60,"type":"text","text":"##### Long tunics"}
+	],
+	"edges":[
+		{"id":"1215b33ed162a901","fromNode":"d812119210af026b","fromSide":"bottom","toNode":"a9b9b5bb24069ef1","toSide":"top"},
+		{"id":"5ecf074b77d1358e","fromNode":"d812119210af026b","fromSide":"bottom","toNode":"c6ff390b40ba76d1","toSide":"top"},
+		{"id":"69393f40dcadd9eb","fromNode":"74e522e839801c61","fromSide":"bottom","toNode":"d812119210af026b","toSide":"top"},
+		{"id":"e111d7d327843bb5","fromNode":"030d86c45158bf83","fromSide":"bottom","toNode":"05ab83f58c2c15fa","toSide":"top"},
+		{"id":"2d408c72a7b4635a","fromNode":"030d86c45158bf83","fromSide":"bottom","toNode":"74e522e839801c61","toSide":"top"},
+		{"id":"f94e4f5eba0e42b3","fromNode":"030d86c45158bf83","fromSide":"bottom","toNode":"87f44b6d66f8e000","toSide":"top"},
+		{"id":"ce8243ca0daf6ebd","fromNode":"030d86c45158bf83","fromSide":"bottom","toNode":"764d7077e44baa34","toSide":"top"}
+	]
+}

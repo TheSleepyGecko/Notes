@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"c0f37399d3a2fb95","x":-540,"y":-320,"width":1310,"height":560,"type":"group","label":"Roman women"},
+		{"id":"65c97f77b981808e","x":-160,"y":-300,"width":250,"height":60,"type":"text","text":"# Roman Women"},
+		{"id":"d958ed641d1c4372","x":-160,"y":-20,"width":250,"height":60,"type":"text","text":"### Education"},
+		{"id":"40aec6d207389328","x":-520,"y":-20,"width":250,"height":60,"type":"text","text":"### Weaving"},
+		{"id":"4debbfc008cc552b","x":220,"y":-20,"width":250,"height":60,"type":"text","text":"### The home "},
+		{"id":"f8ce250713fbcb30","x":500,"y":160,"width":250,"height":60,"type":"text","text":"#### Role in the home"},
+		{"id":"176b5b01b7bcd7bf","x":220,"y":160,"width":250,"height":60,"type":"text","text":"#### Drowry"},
+		{"id":"ae8117441bec4eb0","x":-60,"y":160,"width":250,"height":60,"type":"text","text":"#### Paterfamilias"}
+	],
+	"edges":[
+		{"id":"a38853dac74d8464","fromNode":"65c97f77b981808e","fromSide":"bottom","toNode":"d958ed641d1c4372","toSide":"top"},
+		{"id":"a872ce7bcd56b2dc","fromNode":"65c97f77b981808e","fromSide":"bottom","toNode":"40aec6d207389328","toSide":"top"},
+		{"id":"c38d9f70597ec03b","fromNode":"65c97f77b981808e","fromSide":"bottom","toNode":"4debbfc008cc552b","toSide":"top"},
+		{"id":"22de4eae1dda1705","fromNode":"4debbfc008cc552b","fromSide":"bottom","toNode":"ae8117441bec4eb0","toSide":"top"},
+		{"id":"35421c70c5bdc71f","fromNode":"4debbfc008cc552b","fromSide":"bottom","toNode":"176b5b01b7bcd7bf","toSide":"top"},
+		{"id":"aa8e4d62c53cdba3","fromNode":"4debbfc008cc552b","fromSide":"bottom","toNode":"f8ce250713fbcb30","toSide":"top"}
+	]
+}

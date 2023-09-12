@@ -1,0 +1,5 @@
+Good afternoon, 6th class students. Today I want to talk to you about my experience of 1st year in Ratoath College. I was in the same position as you this time last year, so I know how you all of you are felling. There are three main points I want to talk to you about today. First is Organization, 2nd is Punctuality and Routine and 3rd is homework and study. The first point I want to deal with is organisation. Do you know that you have to use a locker in school? And that you have to lock AND unlock it? Well, I didn't until my first day. Sometimes they don't work and sometimes they do. I can say that for the first few weeks I found it difficult, daunting and draining trying to be organised, If you don't have your books for class you will definitely fall behind in class. It is also really important to have a copy instead of using sheets, so aim to keep your folder with you for every subject.
+
+
+#### Links
+#English #Poetic #AFOREST #Speeches 

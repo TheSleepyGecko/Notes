@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9fffebeff51b9191","x":-520,"y":118,"width":250,"height":60,"color":"2","type":"text","text":"It is expensive."},
+		{"id":"ab6f15e96760a567","x":81,"y":240,"width":250,"height":72,"color":"4","type":"text","text":"Tracksuit all the time, more comfortable "},
+		{"id":"19a40a22aad81506","x":243,"y":27,"width":250,"height":60,"color":"1","type":"text","text":"Not fit for the Winter."},
+		{"id":"d8a148d766d09726","x":206,"y":-185,"width":250,"height":84,"color":"2","type":"text","text":"Having school shoes is annoying"},
+		{"id":"53c7dcd8c96d34c1","x":-270,"y":240,"width":250,"height":60,"color":"1","type":"text","text":"Uncomfortable"},
+		{"id":"3e128467e9e8c411","x":-89,"y":-275,"width":250,"height":60,"color":"3","type":"text","text":"Different for boys and girls."},
+		{"id":"94a68d29980207a5","x":-495,"y":-275,"width":250,"height":90,"color":"1","type":"text","text":"Not being able to express yourself"},
+		{"id":"c715e5deb722af9c","x":-691,"y":-101,"width":250,"height":124,"color":"1","type":"text","text":"Wearing it everyday is disgusting, dont get to wash it."},
+		{"id":"676ff61978d4206d","x":-283,"y":-71,"width":364,"height":128,"color":"5","type":"text","text":"# School uniforms should be banned!"}
+	],
+	"edges":[
+		{"id":"81c0eef39fe95e4c","fromNode":"676ff61978d4206d","fromSide":"left","toNode":"c715e5deb722af9c","toSide":"right"},
+		{"id":"73ef36f5dad61135","fromNode":"676ff61978d4206d","fromSide":"bottom","toNode":"9fffebeff51b9191","toSide":"top"},
+		{"id":"b975eb9f7e67d3bd","fromNode":"676ff61978d4206d","fromSide":"bottom","toNode":"ab6f15e96760a567","toSide":"top"},
+		{"id":"a375c6c5e6cc0374","fromNode":"676ff61978d4206d","fromSide":"right","toNode":"19a40a22aad81506","toSide":"left"},
+		{"id":"4fef0f674b8d38f3","fromNode":"676ff61978d4206d","fromSide":"top","toNode":"3e128467e9e8c411","toSide":"bottom"},
+		{"id":"9c54e4e83e7cad75","fromNode":"676ff61978d4206d","fromSide":"right","toNode":"d8a148d766d09726","toSide":"bottom"},
+		{"id":"94408731831f1d36","fromNode":"676ff61978d4206d","fromSide":"bottom","toNode":"53c7dcd8c96d34c1","toSide":"top"},
+		{"id":"28811b9c239a88da","fromNode":"676ff61978d4206d","fromSide":"left","toNode":"94a68d29980207a5","toSide":"bottom"}
+	]
+}

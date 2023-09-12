@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Natural Number","id":"9f4eb052dc62a836","x":-133,"y":-33,"width":250,"height":114,"color":"#ffffff"},
+		{"type":"text","text":"### 2. LCM\nThe LCM or the lowest common multiple is the lowest number that can be divided into all of them evenly.","id":"6e0d449a51725f2a","x":-600,"y":82,"width":250,"height":215,"color":"2"},
+		{"type":"text","text":"### 1. BIMDAS\nBIMDAS or order of operations tells in what order operations should be completed in complex sums. It happens like  this.\n**B**rackets\n**I**ndicies\n**M**ultiplication\n**D**ivision\n**A**ddition\n**S**ubtraction","id":"a05681674541c791","x":-540,"y":-406,"width":279,"height":373,"color":"#d02525"},
+		{"type":"text","text":"### 7. What is a natural number?\nA whole number that is more than zero.","id":"c30d0a50e1b954ca","x":-212,"y":-495,"width":250,"height":155,"color":"#d62e7f"},
+		{"type":"text","text":"### 6. Squares and indices\nIndices are the small numbers beside regular number. To solve them you must subtract 1 and then multiply the regular number by itself that many times.\n**Examples:**\n```math\n3^3 = 27\n4^2 = 16\n```","id":"0d960bf179e9d303","x":64,"y":-722,"width":341,"height":316,"color":"6"},
+		{"type":"text","text":"### 5. Commutative and Associative\nCommutative operations are sums that no matter the order the operations are done in you will get the same answer. Associative sums are sums which no matter where brackets are placed you will get the same answer. The only operations that are commutative or associative are multiplication and addition\n","id":"a8439953122d03fd","x":460,"y":-349,"width":367,"height":316,"color":"5"},
+		{"type":"text","text":"### 4. Rounding\nRounding is when you bring one of the spaces up one if it is 5 or above and keep it the same.\n**Examples:**\n1893 round the hundreds = 1900\n3759 round the hundreds = 3700","id":"9f3e641d6dacb92b","x":306,"y":120,"width":308,"height":253,"color":"4"},
+		{"type":"text","text":"### 3. HCF\nThe HCF means the highest common factor which is the highest factor that is the same between two number.","id":"97f1a5cfa674bc14","x":-133,"y":269,"width":250,"height":209,"color":"3"}
+	],
+	"edges":[
+		{"id":"71db87f0c6cab0a4","fromNode":"a05681674541c791","fromSide":"bottom","toNode":"9f4eb052dc62a836","toSide":"left"},
+		{"id":"884b9c6d0e680b9c","fromNode":"6e0d449a51725f2a","fromSide":"right","toNode":"9f4eb052dc62a836","toSide":"bottom"},
+		{"id":"89d2fc4badc42e71","fromNode":"97f1a5cfa674bc14","fromSide":"top","toNode":"9f4eb052dc62a836","toSide":"bottom"},
+		{"id":"b92d1ebecd094e98","fromNode":"9f3e641d6dacb92b","fromSide":"left","toNode":"9f4eb052dc62a836","toSide":"right"},
+		{"id":"cf257459a58d8f75","fromNode":"0d960bf179e9d303","fromSide":"bottom","toNode":"9f4eb052dc62a836","toSide":"top"},
+		{"id":"0092803958701d7b","fromNode":"c30d0a50e1b954ca","fromSide":"bottom","toNode":"9f4eb052dc62a836","toSide":"top"},
+		{"id":"307d8c8478f22d31","fromNode":"a8439953122d03fd","fromSide":"left","toNode":"9f4eb052dc62a836","toSide":"top"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"0ca0ae0d86940f65","x":-500,"y":-300,"width":930,"height":438,"type":"group","label":"Lords & Ladies"},
+		{"type":"text","text":"# Lords & Ladies","id":"750fb1251b250bb4","x":-160,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"### Jousting","id":"c592e457ddc86c6d","x":-160,"y":-60,"width":250,"height":60},
+		{"type":"text","text":"### Lords","id":"ce5c58fe1ab7c68b","x":-480,"y":-60,"width":250,"height":60},
+		{"type":"text","text":"### Ladies","id":"13a6421688c8b7e4","x":160,"y":-60,"width":250,"height":60},
+		{"type":"text","text":"#### Jobs for Lords","id":"3b6d9fc3bb1e07c7","x":-480,"y":58,"width":250,"height":60},
+		{"type":"text","text":"#### Jobs for Ladies","id":"442943bb2ecbfcee","x":160,"y":58,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"007938ff7bbac3a2","fromNode":"750fb1251b250bb4","fromSide":"bottom","toNode":"c592e457ddc86c6d","toSide":"top"},
+		{"id":"2de0307d32ad6482","fromNode":"750fb1251b250bb4","fromSide":"bottom","toNode":"13a6421688c8b7e4","toSide":"top"},
+		{"id":"2598691827c3f15c","fromNode":"750fb1251b250bb4","fromSide":"bottom","toNode":"ce5c58fe1ab7c68b","toSide":"top"},
+		{"id":"f805aca0d6afd4c7","fromNode":"13a6421688c8b7e4","fromSide":"bottom","toNode":"442943bb2ecbfcee","toSide":"top"},
+		{"id":"f5599236e666be9c","fromNode":"ce5c58fe1ab7c68b","fromSide":"bottom","toNode":"3b6d9fc3bb1e07c7","toSide":"top"}
+	]
+}

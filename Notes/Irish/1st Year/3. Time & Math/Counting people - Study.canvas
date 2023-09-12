@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"ade8fe07124e876e","x":-105,"y":-35,"width":250,"height":60,"color":"#ffffff","type":"text","text":"# Daoine"},
+		{"id":"c8b846cc01425cbe","x":-25,"y":288,"width":250,"height":60,"color":"#eacb06","type":"text","text":"### 4. Ceathrar"},
+		{"id":"5b482e20d50f6fca","x":336,"y":198,"width":250,"height":60,"color":"#aef514","type":"text","text":"### 5. Cúigear"},
+		{"id":"c59fa38aa00bfd68","x":406,"y":-5,"width":250,"height":60,"color":"#37e407","type":"text","text":"### 6. Seisear"},
+		{"id":"e75ad6f643e5d63d","x":376,"y":-198,"width":250,"height":60,"color":"#08f78f","type":"text","text":"### 7. Seachtar"},
+		{"id":"5744c20aeb62396a","x":211,"y":-343,"width":250,"height":69,"color":"#14bfe1","type":"text","text":"### 8. Ochtar"},
+		{"id":"e32c1a13637178cd","x":-443,"y":228,"width":250,"height":60,"color":"#ec8d09","type":"text","text":"### 3. Triúr"},
+		{"id":"854dd909195e06a9","x":-595,"y":25,"width":250,"height":60,"color":"#f52500","type":"text","text":"### 2. Beirt"},
+		{"id":"81341722c5d8aefb","x":-568,"y":-168,"width":250,"height":60,"color":"#f50000","type":"text","text":"### 1. Duine"},
+		{"id":"3b44674d7a8f5a2c","x":-397,"y":-373,"width":250,"height":60,"color":"#8e07e9","type":"text","text":"### 10. Deichniúr"},
+		{"id":"1dd62edd6ebe1ca5","x":-87,"y":-433,"width":250,"height":60,"color":"#0d14e3","type":"text","text":"### 9. Naonúr"}
+	],
+	"edges":[
+		{"id":"d4b88fc30ca8dad1","fromNode":"3b44674d7a8f5a2c","fromSide":"bottom","toNode":"ade8fe07124e876e","toSide":"top"},
+		{"id":"f933b0b69a6caff7","fromNode":"1dd62edd6ebe1ca5","fromSide":"bottom","toNode":"ade8fe07124e876e","toSide":"top"},
+		{"id":"f9825a5a110d8ef6","fromNode":"5744c20aeb62396a","fromSide":"bottom","toNode":"ade8fe07124e876e","toSide":"top"},
+		{"id":"f54c7029fc60e901","fromNode":"e75ad6f643e5d63d","fromSide":"left","toNode":"ade8fe07124e876e","toSide":"right"},
+		{"id":"818536846632622d","fromNode":"c59fa38aa00bfd68","fromSide":"left","toNode":"ade8fe07124e876e","toSide":"right"},
+		{"id":"3cb5c6a89f0b35c4","fromNode":"5b482e20d50f6fca","fromSide":"left","toNode":"ade8fe07124e876e","toSide":"right"},
+		{"id":"2380e954dfd357f1","fromNode":"c8b846cc01425cbe","fromSide":"top","toNode":"ade8fe07124e876e","toSide":"bottom"},
+		{"id":"d0d8b233b863d9aa","fromNode":"e32c1a13637178cd","fromSide":"top","toNode":"ade8fe07124e876e","toSide":"bottom"},
+		{"id":"0f8f88ff48395934","fromNode":"854dd909195e06a9","fromSide":"right","toNode":"ade8fe07124e876e","toSide":"left"},
+		{"id":"68fbf942df3228a0","fromNode":"81341722c5d8aefb","fromSide":"right","toNode":"ade8fe07124e876e","toSide":"left"}
+	]
+}

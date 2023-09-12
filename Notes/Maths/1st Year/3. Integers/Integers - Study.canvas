@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Integers ℤ","id":"e7462b0e4840865e","x":-79,"y":-51,"width":250,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"### 3. Adding and subtracting integers\nWhen adding and subtracting integers you can use a number line or can use a set of rules.\n**Rules:**\nIf the two numbers are the same sign and the operation is the same, you add. If the two numbers are different you swap the sign.\n-7 + 4 = -3\n","id":"21381d11a4ab2ae2","x":310,"y":177,"width":354,"height":349,"color":"#ffdd00"},
+		{"type":"text","text":"### 2. What is an integer?\nAn integer is a postive or negative number including zero. The symbol for integers can be used to express all of them as a whole or as a set 7 ∈ ℤ","id":"9ec4c40c0aa8623f","x":-475,"y":117,"width":237,"height":296,"color":"#f88425"},
+		{"type":"text","text":"### 1. What is the symbol for integers? \nThe symbol for integers is a Z with an extra line through it. ℤ","id":"191ac75baea12bfd","x":-475,"y":-342,"width":250,"height":219,"color":"#ec0e0e"},
+		{"type":"text","text":"### 4. Multiplying Integers.\nWhen multplying integers there is a strict set of rules you need to follow these rules say what sign the final number will have. Dividing is the same as multiplacation.\n**Rules:**\n(+)(+) = +\n(-)(-) = +\n(+)(-) = -\n(-)(+) = -","id":"2551df07c0365b6d","x":383,"y":-514,"width":281,"height":401,"color":"#83da01"}
+	],
+	"edges":[
+		{"id":"e90b2277dfa77f35","fromNode":"191ac75baea12bfd","fromSide":"right","toNode":"e7462b0e4840865e","toSide":"left"},
+		{"id":"223845c640c1ce00","fromNode":"9ec4c40c0aa8623f","fromSide":"right","toNode":"e7462b0e4840865e","toSide":"bottom"},
+		{"id":"2383ad7c10c18a21","fromNode":"21381d11a4ab2ae2","fromSide":"top","toNode":"e7462b0e4840865e","toSide":"right"},
+		{"id":"651fbb2471791e90","fromNode":"2551df07c0365b6d","fromSide":"left","toNode":"e7462b0e4840865e","toSide":"top"}
+	]
+}

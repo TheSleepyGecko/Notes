@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"### 1. Celestial body\nA celestial body is anything that is located in space may that be planets, moons, stars or galaxies.","id":"b76ec86732088d9f","x":-534,"y":-305,"width":250,"height":205,"color":"#f20707"},
+		{"type":"text","text":"### 5. Planets\nTo be considered a planet there are three conditions that must be met. The planet must orbit a star. It must have enough mass so that its gravity forms it into a sphere. And finally the object must be big enough to move other objects a similar size to it out of the way when it is orbiting a star. There are two types of planets, terrestial which are rocky planets and Jovian which are gas/ice planets.","id":"33da5638279ce916","x":480,"y":-212,"width":317,"height":412,"color":"#52df07"},
+		{"type":"text","text":"### 2. Galaxies\nGalaxies or collections of millions or billions of stars and planets. They can be spiral galaxies(spinning is a circle) or eliptical(oval shaped).","id":"80904ccb5d35ad3a","x":-534,"y":55,"width":250,"height":248,"color":"#f96a0b"},
+		{"type":"text","text":"# Earth and space","id":"d2bc69cb967a9259","x":-9,"y":-127,"width":250,"height":117,"color":"#ffffff"},
+		{"type":"text","text":"### 6. Moons\nMoons are objects that are found revolving around the planets in our solar system. Moons come in many shapes, sizes and types. An example of this is titain a moon of jupiter and has lakes forests and caves! They are generally solid bodies, and a few of them have atmospheres.","id":"2720cccdafa0fd6f","x":375,"y":-549,"width":326,"height":312,"color":"#00ff91"},
+		{"type":"text","text":"### 7. Comets\nComets are made from a mixture of frozen gases, icem dust and small rocks. Comets are unable to support life. Their \"tails\" will not always go away from where they are heading, they will head away from a star if there is one nearby. It is possible that they brought water and other compounds to Earth.","id":"a99d72385676097a","x":-9,"y":-820,"width":316,"height":329,"color":"#0ed3e1"},
+		{"type":"text","text":"### 8. Asteroids\nAsteroids are giant rocks that orbit the sun that are too small to be called planets. There are millions of them in our solar system. About  three quarters are in the asteroid belt, a ring between the orbits of Mars and Jupiter.","id":"ebb04bd50d470221","x":-395,"y":-705,"width":290,"height":312,"color":"#0f38db"},
+		{"type":"text","text":"### 4. Stars\nA star is a luminous object made up of gas that can produce its own light and heat via nuclear reaction. The method in that stars keep produncing heat is by converting hydrogen to helium in its core generating heat and light, this is a result of the extreme heat and pressure.","id":"028cf74cc8f1e421","x":307,"y":257,"width":297,"height":331,"color":"#d9e907"},
+		{"type":"text","text":"### 3. Solar system\nA solar system is what a star and the planets orbiting it are called, our solar system has eight planets. Mercury, Venus, Earth, Mars, Saturn, Jupiter, Uranus, Neptune","id":"c6795ae0a487f819","x":-139,"y":303,"width":288,"height":240,"color":"#e29208"}
+	],
+	"edges":[
+		{"id":"4a01946a34e54b5c","fromNode":"a99d72385676097a","fromSide":"bottom","toNode":"d2bc69cb967a9259","toSide":"top"},
+		{"id":"1176a92d09cd64df","fromNode":"2720cccdafa0fd6f","fromSide":"left","toNode":"d2bc69cb967a9259","toSide":"top"},
+		{"id":"21a0980e34b2e890","fromNode":"33da5638279ce916","fromSide":"left","toNode":"d2bc69cb967a9259","toSide":"right"},
+		{"id":"ea5b934788221b6c","fromNode":"028cf74cc8f1e421","fromSide":"top","toNode":"d2bc69cb967a9259","toSide":"bottom"},
+		{"id":"06b4a343a84e4c25","fromNode":"c6795ae0a487f819","fromSide":"top","toNode":"d2bc69cb967a9259","toSide":"bottom"},
+		{"id":"01af99bcb0a7fd12","fromNode":"80904ccb5d35ad3a","fromSide":"right","toNode":"d2bc69cb967a9259","toSide":"left"},
+		{"id":"41c4548298edf110","fromNode":"b76ec86732088d9f","fromSide":"right","toNode":"d2bc69cb967a9259","toSide":"left"},
+		{"id":"b3a5d27211bcdbd7","fromNode":"ebb04bd50d470221","fromSide":"bottom","toNode":"d2bc69cb967a9259","toSide":"top"}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Statistics","id":"16ab5b613cb16d83","x":-140,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"### Charts","id":"ee4a47312e2fb3d3","x":-140,"y":120,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"#### Stem and leaf","id":"5f4fe477bf10c07c","x":260,"y":225,"width":250,"height":60,"color":"#912727"},
+		{"type":"text","text":"#### Histogram","id":"cd1a345bff70c057","x":-550,"y":225,"width":250,"height":60,"color":"#912727"},
+		{"type":"text","text":"#### Line chart","id":"2bcac06192fcc6d3","x":-390,"y":366,"width":250,"height":60,"color":"#912727"},
+		{"type":"text","text":"#### Pie chart","id":"bc32ea0c1bb937e2","x":110,"y":366,"width":250,"height":60,"color":"#912727"},
+		{"type":"text","text":"#### Bar chart","id":"06fb002cd05e954e","x":-136,"y":466,"width":250,"height":60,"color":"#912727"},
+		{"type":"text","text":"### Primary Data","id":"1605f1c96d8ad8ff","x":280,"y":-80,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"### Secondary Data","id":"a59bf285c836eb2b","x":235,"y":60,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"### Numerical Data","id":"cb869238fe6e8970","x":-140,"y":-313,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"### Categorical Data","id":"bddb43574563d49e","x":-460,"y":-221,"width":250,"height":60,"color":"#5900ff"},
+		{"type":"text","text":"### Population","id":"b35312f8ca1f6ece","x":235,"y":-221,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"### Sampling","id":"4c4113d89abf37b9","x":-515,"y":-80,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"### Bias","id":"4848b3db82ad3bf4","x":-460,"y":60,"width":250,"height":60,"color":"#ee3a88"}
+	],
+	"edges":[
+		{"id":"05f7bb73d1818f6e","fromNode":"ee4a47312e2fb3d3","fromSide":"bottom","toNode":"2bcac06192fcc6d3","toSide":"top","color":"#912727"},
+		{"id":"db0a902a1bec610e","fromNode":"ee4a47312e2fb3d3","fromSide":"bottom","toNode":"cd1a345bff70c057","toSide":"top","color":"#912727"},
+		{"id":"064488e1795bd9b3","fromNode":"ee4a47312e2fb3d3","fromSide":"bottom","toNode":"bc32ea0c1bb937e2","toSide":"top","color":"#912727"},
+		{"id":"5f5fa4a4aea5dc10","fromNode":"ee4a47312e2fb3d3","fromSide":"bottom","toNode":"5f4fe477bf10c07c","toSide":"top","color":"#912727"},
+		{"id":"57691ffaf6853d2a","fromNode":"ee4a47312e2fb3d3","fromSide":"bottom","toNode":"06fb002cd05e954e","toSide":"top","color":"#912727"},
+		{"id":"e080ba742c83e3b2","fromNode":"16ab5b613cb16d83","fromSide":"bottom","toNode":"ee4a47312e2fb3d3","toSide":"top","color":"1"},
+		{"id":"3a5f2971bfa9a3cd","fromNode":"16ab5b613cb16d83","fromSide":"right","toNode":"a59bf285c836eb2b","toSide":"left","color":"2"},
+		{"id":"a5a6791b33f75df8","fromNode":"16ab5b613cb16d83","fromSide":"right","toNode":"1605f1c96d8ad8ff","toSide":"left","color":"3"},
+		{"id":"207264c664274d8a","fromNode":"16ab5b613cb16d83","fromSide":"left","toNode":"4c4113d89abf37b9","toSide":"right","color":"6"},
+		{"id":"7f251fc0f1e97bce","fromNode":"16ab5b613cb16d83","fromSide":"left","toNode":"4848b3db82ad3bf4","toSide":"right","color":"#ee3a88"},
+		{"id":"785347d13b89057b","fromNode":"16ab5b613cb16d83","fromSide":"top","toNode":"bddb43574563d49e","toSide":"right","color":"#5900ff"},
+		{"id":"c384b6efb63da826","fromNode":"16ab5b613cb16d83","fromSide":"top","toNode":"cb869238fe6e8970","toSide":"bottom","color":"5"},
+		{"id":"6a1ea6eec935b9cd","fromNode":"16ab5b613cb16d83","fromSide":"top","toNode":"b35312f8ca1f6ece","toSide":"left","color":"4"}
+	]
+}

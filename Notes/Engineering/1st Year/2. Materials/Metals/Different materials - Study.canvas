@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"d3c44ce270e36b9a","x":-32,"y":243,"width":275,"height":238,"color":"#cddb00","type":"text","text":"### 4. Steel \nThere are many types of steel depending on the carbon content, the lower the carbon content the more mallable the steel and the higher it is the tougher the steel gets."},
+		{"id":"c37b763a7a52256e","x":270,"y":134,"width":250,"height":219,"color":"#5bef0b","type":"text","text":"### 5. High speed steel\nHigh speed steel is a varient of steel which contains tungston making it tougher, it is used in milling machine cutters."},
+		{"id":"0b3095d204a1dde2","x":-335,"y":260,"width":250,"height":187,"color":"#e29003","type":"text","text":"### 3. Solder\nSolder is an alloy most commonly used for electrical connections, it is made up of lead and tin."},
+		{"id":"4bc332ea07e2e366","x":-617,"y":36,"width":250,"height":208,"color":"#dc4909","type":"text","text":"### 2. Bronze\nBronze is an alloy and is most commonly used in statues and medals, it is made up of copper and tin."},
+		{"id":"6db1b10b4ba95a60","x":-691,"y":-248,"width":250,"height":212,"color":"#df0707","type":"text","text":"### 1. Brass\nBrass is an alloy and is used in musical instraments and hinges, it is made up of copper and zinc."},
+		{"id":"8a671a7fabf76b63","x":415,"y":-99,"width":250,"height":212,"color":"#03fc20","type":"text","text":"### 6. Stainless steel\nStainless steel is a very popular varient of steel it contains chromium. It is usually used in kitchens for it's nice apperence."},
+		{"id":"f8e8d57e4ab9acc4","x":309,"y":-334,"width":250,"height":215,"color":"#19f093","type":"text","text":"### 7. Aluminium\nAluminium has a white apperence it is light, does not rust, is malleable and is used in high quality outdoor equipment."},
+		{"id":"8ea0228094c1306d","x":20,"y":-498,"width":250,"height":209,"color":"#09aed7","type":"text","text":"### 8. Copper\nIt is dull red in colour, malleable, ductile, a great conducter of heat and electricity and is used in plumbing."},
+		{"id":"493a05b742568158","x":-270,"y":-563,"width":250,"height":194,"color":"#1927f0","type":"text","text":"### 9. Lead\nLead is a dull grey colour, heavy, soft, malleable and is used in garud's sheilds and protective equipment."},
+		{"id":"5464ca4acb20b7ec","x":-585,"y":-475,"width":250,"height":164,"color":"#5d0fd2","type":"text","text":"### 10. Zinc\nZinc can be white to grey in colour, soft, malleable and is used for galvanising"},
+		{"id":"e17b7be9125f4009","x":-145,"y":-99,"width":202,"height":127,"color":"#ffffff","type":"text","text":"# Different materials"}
+	],
+	"edges":[
+		{"id":"ab3373d86ab92876","fromNode":"6db1b10b4ba95a60","fromSide":"right","toNode":"e17b7be9125f4009","toSide":"left"},
+		{"id":"e496298aa6313f13","fromNode":"4bc332ea07e2e366","fromSide":"right","toNode":"e17b7be9125f4009","toSide":"left"},
+		{"id":"587a28a99f220fe4","fromNode":"0b3095d204a1dde2","fromSide":"top","toNode":"e17b7be9125f4009","toSide":"bottom"},
+		{"id":"09c9f168d210dbe5","fromNode":"d3c44ce270e36b9a","fromSide":"top","toNode":"e17b7be9125f4009","toSide":"bottom"},
+		{"id":"cd38e1a8141eb14b","fromNode":"c37b763a7a52256e","fromSide":"top","toNode":"e17b7be9125f4009","toSide":"bottom"},
+		{"id":"e049491e9215912e","fromNode":"8a671a7fabf76b63","fromSide":"left","toNode":"e17b7be9125f4009","toSide":"right"},
+		{"id":"949feb185ea6af67","fromNode":"f8e8d57e4ab9acc4","fromSide":"left","toNode":"e17b7be9125f4009","toSide":"right"},
+		{"id":"5b4eaca3823f9a50","fromNode":"8ea0228094c1306d","fromSide":"bottom","toNode":"e17b7be9125f4009","toSide":"top"},
+		{"id":"f9d4ef0b776b053c","fromNode":"493a05b742568158","fromSide":"bottom","toNode":"e17b7be9125f4009","toSide":"top"},
+		{"id":"7bef05e65c6e2434","fromNode":"5464ca4acb20b7ec","fromSide":"bottom","toNode":"e17b7be9125f4009","toSide":"top"}
+	]
+}
